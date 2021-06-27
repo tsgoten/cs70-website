@@ -1,0 +1,26 @@
+- type: lec
+  date: "4/13"
+  week: 13
+  title: "Coping with NP-completeness"
+  reading_text: ["9"]
+  resources:
+      - name: "Prof. Chiesa's notes"
+        url: "/assets/notes/Lecture 21.pdf"
+  webcast: https://berkeley.zoom.us/rec/share/8Mmjb9X2_uVPpm5M8w_gqa7CbNodx4jS8aybInYdGqLzq7NpLO2rcy3fYe86DNuj.SH4u3O8krMh72_lb
+  password: "7%HN@S5a"
+  mirror: https://youtu.be/HJhO1HVLCKU
+- type: lec
+  date: "4/15"
+  week: 13
+  title: "Randomized Algorithms"
+  reading:
+      - name: "notes"
+        url: "/assets/notes/notes-randomization.pdf"
+  resources:
+      - name: "Prof. Demmel's notes <br> (post-lec)"
+        url: "/assets/notes/Lecture 22 (post).pdf"
+      - name: "Prof. Demmel's notes <br> (pre-lec)"
+        url: "/assets/notes/Lecture 22 (pre).pdf"
+  webcast: https://berkeley.zoom.us/rec/share/DZXAeEu0TJ9Vk4Ce4qN3D72htW3T59LkpRdIjZKp_94OsUzpuC4Doh5XlXPgeov2.r7AO8EnPYDj8ElTO
+  password: ".PUyb^8G"
+  mirror: https://youtu.be/8tUIp0NyJTc

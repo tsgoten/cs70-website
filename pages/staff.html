@@ -1,0 +1,27 @@
+---
+layout: page
+title: Staff
+permalink: /staff/
+---
+
+<p>
+    For logistics and administrative questions, please email fa21@eecs70.org (a private
+    email that is only seen by the head TAs and professors). <br />
+    <span class="text-muted"> Append berkeley.edu to all emails below. </span>
+</p>
+
+<h2 class="mv-5">Professors</h2>
+    <div class="row">{% include staff-list.html type="Instructor" %}</div>
+
+<h2 class="mv-5">Admin Student Instructors</h2>
+    <div class="row">
+        {% include staff-list.html type="Head TA" %}   
+    </div>
+
+<h2 class="mv-5">Student Instructors</h2>
+    <div class="row">
+        {% include staff-list.html type="TA" %}
+    </div>
+
+<h2 class="mv-5">Readers</h2>
+    <div class="row">{% include staff-list.html type="Reader" %}</div>

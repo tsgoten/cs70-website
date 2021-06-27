@@ -1,0 +1,22 @@
+- type: lec
+  date: "2/2"
+  week: 3
+  title: "Decompositions of graphs"
+  reading_text: ["3"]
+  resources:
+      - name: "Prof. Chiesa's notes"
+        url: "/assets/notes/Lecture 5.pdf"
+  webcast: https://berkeley.zoom.us/rec/share/M8op9yYdbdg7O0rbwtLcUwQei8k8REiIrB4lSrnZgs-KJC5HmXLcCID_Edhnxo_K.-MxFDAGECQ9NayPW
+  password: P%4T@dCS
+  mirror: https://youtu.be/8UuV7SWtF_8
+- type: lec
+  date: "2/4"
+  week: 3
+  title: "Paths in graphs (Part I)"
+  reading_text: ["4.1", "4.2", "4.3", "4.4"]
+  webcast: https://berkeley.zoom.us/rec/share/PGkwJT4SON7c4Fzdw0is19aijMi2Le7rNU7yWmONxXy05JuJliNH0D0pIbLWE-s3.UKzAYYNAj2XdSH8x
+  password: VIY$L&n4
+  mirror: https://youtu.be/OMQflIz64xM
+  resources:
+      - name: "Prof. Chiesa's notes"
+        url: "/assets/notes/Lecture 6.pdf"

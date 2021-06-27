@@ -1,0 +1,134 @@
+---
+layout: page
+title: Materials
+permalink: /materials/
+---
+
+{% include warning.html %}
+
+<p>
+    Textbook: <a href="http://cseweb.ucsd.edu/~dasgupta/book/index.html">Algorithms</a> by S. Dasgupta, C.H. Papadimitriou, and U.V. Vazirani
+</p>
+
+<ul class="nav nav-tabs mb-3" id="pills-tab" role="tablist">
+    <li class="nav-item">
+        <a class="nav-link active" id="pills-by-week-tab" data-toggle="pill" href="#by-week" role="tab" aria-controls="pills-by-week" aria-selected="true">By Week</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" id="pills-lectures-tab" data-toggle="pill" href="#lectures" role="tab" aria-controls="pills-lectures" aria-selected="false">Lectures</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" id="pills-sections-tab" data-toggle="pill" href="#sections" role="tab" aria-controls="pills-sections" aria-selected="false">Sections</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" id="pills-homework-tab" data-toggle="pill" href="#homework" role="tab" aria-controls="pills-homework" aria-selected="false">Homework</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" id="pills-exams-tab" data-toggle="pill" href="#exams" role="tab" aria-controls="pills-exams" aria-selected="false">Exams</a>
+    </li>
+</ul>
+
+{% assign sorted_weeks = site.data.materials | sort %}
+
+<div class="tab-content" id="pills-tabContent">
+    <div class="tab-pane fade show active" id="by-week" role="tabpanel" aria-labelledby="pills-by-week-tab">
+        {% for week in sorted_weeks %}
+            {% assign cur = week[1] %}
+            {% if cur.week > 0 %}
+                {% include material-week.html show_header = false %}
+            {% endif %}
+        {% endfor %}
+    </div>
+    <div class="tab-pane fade" id="lectures" role="tabpanel" aria-labelledby="pills-lectures-tab">
+        <div class="row">
+            {% for week in sorted_weeks %}
+                {% assign cur = week[1] %}
+                {% assign slot = cur.slot_1 %}
+                {% if slot.type == "lecture" %}
+                    <div class="col-sm-3 py-2">
+                        {% include material-slot.html week=cur.week %}
+                    </div>
+                {% endif %}
+                {% assign slot = cur.slot_2 %}
+                {% if slot.type == "lecture" %}
+                    <div class="col-sm-3 py-2">
+                        {% include material-slot.html week=cur.week %}
+                    </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+    <div class="tab-pane fade" id="sections" role="tabpanel" aria-labelledby="pills-sections-tab">
+        <div class="row">
+            {% for week in sorted_weeks %}
+                {% assign cur = week[1] %}
+                {% assign assgn = cur.section %}
+                {% assign assgn_type = "Sec" %}
+                {% assign long_assgn_type = "Section" %}
+                {% if assgn.number %}
+                    <div class="col-sm-3 py-2">
+                        {% include material-assignment.html %}
+                    </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+    <div class="tab-pane fade" id="homework" role="tabpanel" aria-labelledby="pills-homework-tab">
+        <div class="row">
+            {% for week in sorted_weeks %}
+                {% assign cur = week[1] %}
+                {% assign assgn = cur.homework %}
+                {% assign assgn_type = "HW" %}
+                {% assign long_assgn_type = "Homework" %}
+                {% if assgn.number %}
+                    <div class="col-sm-3 py-2">
+                        {% include material-assignment.html %}
+                    </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+    <div class="tab-pane fade" id="exams" role="tabpanel" aria-labelledby="pills-exams-tab">
+        <div class="row">
+            {% for week in sorted_weeks %}
+                {% assign cur = week[1] %}
+                {% assign slot = cur.slot_1 %}
+                {% if slot.type == "midterm" %}
+                    <div class="col-sm-3 py-2">
+                        {% include material-slot.html %}
+                    </div>
+                {% endif %}
+                {% assign slot = cur.slot_2 %}
+                {% if slot.type == "midterm" %}
+                    <div class="col-sm-3 py-2">
+                        {% include material-slot.html %}
+                    </div>
+                {% endif %}
+            {% endfor %}
+            <div class="col-sm-3 py-2">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="float-left">Final</h5> <span class="text-muted float-right">12/19</span>
+                        <div class="clearfix"></div>
+                        <p class="card-text">8-11am</p>
+                        <p>&sect; The entire class</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(function(){
+        var hash = window.location.hash;
+        hash && $('ul.nav a[href="' + hash + '"]').tab('show');
+    
+        $('.nav-tabs a').click(function (e) {
+            $(this).tab('show');
+            var scrollmem = $('body').scrollTop() || $('html').scrollTop();
+            window.location.hash = this.hash;
+            $('html,body').scrollTop(scrollmem);
+        });
+    });
+</script>

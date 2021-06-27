@@ -1,0 +1,182 @@
+---
+layout: default
+title: Home
+---
+
+{% assign LECTURES_PER_WEEK = 2 %}
+
+<h2>
+    Discrete Mathematics and Probability Theory
+</h2>
+<h5 class="text-muted">
+    EECS 70 at UC Berkeley with Babak Ayazifar and Satish Rao, Fall 2021
+</h5>
+<p>Lecture: Tu/Th 8:00 am - 10:00 pm<br/>
+Professor Rao's OH: M 1:00 - 2:00 pm<br/>
+Professor Ayazifar's OH: F 3:00 - 5:00 pm</p>
+
+<a href="#week15"><b>Jump to current week</b></a>
+
+<div class="table-responsive py-3">
+<table class="table table-bordered" >
+    <thead>
+        <tr>
+            <th>Week</th>
+            <th>Date</th>
+            <th>Lecture</th>
+            <th>Notes</th>
+            <th>Discussion</th>
+            <th>Assignments</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for week in (1..site.num_weeks) %}
+
+            {% assign row_week = "" %}
+            {% assign row_date = "" %}
+            {% assign row_lecture = "" %}
+            {% assign row_reading = "" %}
+            {% assign row_section = "" %}
+            {% assign row_assignments = "" %}
+
+            {% for data_hash in site.data.materials %}
+                {% assign data = data_hash[1] %}
+                {% for material in data %}
+                    {% if material.weeks contains week or material.week == week %}
+                        {% case material.type %}
+                            {% when "announcement" %}
+                                {% capture append_row_week %}
+                                <div class="main-badge-block">
+                                    <p class="badge badge-light my-1 main-badge">
+                                        <a href="{{ site.piazza_url }}">Piazza {{ material.num }}</a>
+                                    </p>
+                                </div>
+                                {% endcapture %}
+                                {% assign row_week = row_week | append: append_row_week %}
+                            {% when "hw" %}
+                                {% capture append_row_assignments %}
+                                <div class="badge badge-light my-1 p-3 main-badge">
+                                    <a {% if material.posted %}
+                                        href="/assets/pdf/hw{{material.name}}.pdf"
+                                        {% else %} class="text-muted" {% endif %}>HW {{material.num}}</a>,<br/>
+                                    <a {% if material.solutions%}
+                                        href="/assets/pdf/hw{{material.name}}-sol.pdf"
+                                        {% else %} class="text-muted" {% endif %}>solutions</a><br/>
+                                </div>
+                                {%if material.walkthrough %}
+                                <div class="badge badge-light my-1 p-3 main-badge">
+                                    <a href="{{material.walkthrough}}">HW {{material.num}} walkthrough</a><br/>
+                                </div>
+                                {% endif %}
+                                {% endcapture %}
+                                {% assign row_assignments = row_assignments | prepend: append_row_assignments %}
+                            {% when "dis" %}
+                                {% capture append_row_section %}
+                                <div class="badge badge-light my-1 p-3 main-badge">
+                                    <a {% if material.posted %}
+                                        href="/assets/pdf/dis{{material.name}}.pdf"
+                                        {% else %} class="text-muted" {% endif %}>Section {{material.num}}</a>,<br/>
+                                    <a {% if material.solutions %}
+                                        href="/assets/pdf/dis{{material.name}}-sol.pdf"
+                                        {% else %} class="text-muted" {% endif %}>solutions</a><br/>
+                                </div>
+                                {%if material.walkthrough %}
+                                <div class="badge badge-light my-1 p-3 main-badge">
+                                    <a href="{{material.walkthrough}}">Section {{material.num}} walkthrough</a><br/>
+                                </div>
+                                {% endif %}
+                                {% endcapture %}
+                                {% assign row_section = row_section | append: append_row_section %}
+                        {% endcase %}
+                    {% endif %}
+                {% endfor %}
+            {% endfor %}
+
+            {% assign first_tr = true %}
+            {% for data_hash in site.data.materials %}
+                {% assign data = data_hash[1] %}
+                {% for material in data %}
+                    {% if material.weeks contains week or material.week == week %}
+                        {% if material.type == "lec" %}
+                            <tr>
+                                {% if first_tr %}
+                                <th rowspan="{{ LECTURES_PER_WEEK }}" style="text-align: center" id="week{{ week }}">
+                                    {{ week }}</br>
+                                    {{ row_week }}
+                                </th>
+                                {% endif %}
+                                <td>
+                                    {% cycle "Tu", "Th" %} <br/>
+                                    {{ material.date }}
+                                </td>
+                                <td class="table-td-sm">
+                                    {% if material.title %}
+                                        {{ material.title | markdownify }}
+                                        {% if material.webcast %}
+                                            <span class="badge badge-light main-badge">
+                                                <a href="{{ material.webcast }}" target="_blank">webcast</a>
+                                                {% if material.mirror %}
+                                                | 
+                                                <a href="{{ material.mirror }}" target="_blank">youtube mirror</a>
+                                                {% endif %}
+                                                {% if material.password %}
+                                                <br>
+                                                <div class="text-muted">Password: {{material.password}}</div>
+                                                {% endif %}
+                                            </span>
+                                            <div style="height:0.5rem"></div>
+                                        {% endif %}
+
+                                        {% if material.resources %}
+                                        {% for resource in material.resources %}
+                                        <span class="badge badge-light main-badge">
+                                            <a href="{{ resource.url }}">{{ resource.name }}</a>
+                                        </span><br>
+                                        <div style="height:0.4rem"></div>
+                                        {% endfor %}
+                                    {% endif %}
+                                    {% endif %}
+                                    {% if material.holiday %}
+                                        {{ material.holiday }}
+                                    {% endif %}
+                                </td>
+                                <td>
+                                    {% if material.reading_text %}
+                                        <span class="badge badge-light main-badge">
+                                            {% for r in material.reading_text %}
+                                                {% include reading-link.html reading=r %}
+                                                {% unless forloop.last %},{% endunless %}
+                                            {% endfor %}
+                                        </span>
+                                    {% endif %}
+                                    {% if material.reading %}
+                                    {% for resource in material.reading %}
+                                    <span class="badge badge-light main-badge">
+                                        <a {% if resource.url %} href="{{ resource.url }}"
+                                            {% else %} class="text-muted" {% endif %}>{{ resource.name }}</a>
+                                        {% if resource.sections %}
+                                        &sect;{% for sec in resource.sections %}{{ sec}}{% unless forloop.last %}, {% endunless%}{% endfor %}
+                                        {% endif %}
+                                    </span>
+                                    {% endfor %}
+                                {% endif %}
+                                </td>
+                                {% if first_tr %}
+                                <td rowspan="{{ LECTURES_PER_WEEK }}" style="vertical-align: middle; text-align: center;">
+                                    {{ row_section }}
+                                </td>
+                                <td rowspan="{{ LECTURES_PER_WEEK }}" style="vertical-align: middle; text-align: center;">
+                                    {{ row_assignments }}
+                                </td>
+                                {% endif %}
+                            </tr>
+                            {% assign first_tr = false %}
+                        {% endif %}
+                    {% endif %}
+                {% endfor %}
+            {% endfor %}
+        {% endfor %}
+    </tbody>
+</table>
+<p><b>Final time:</b> Neverday 13/23, 11:30am - 2:30pm PST</p>
+</div>

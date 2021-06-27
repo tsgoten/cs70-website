@@ -1,0 +1,22 @@
+- type: lec
+  date: "1/19"
+  week: 1
+  title: Introduction, big-O notation, arithmetic
+  reading_text: ["0", "1"]
+  webcast: https://berkeley.zoom.us/rec/share/S8Gq-v8ekfyE-kezqcFTe8fumsxPxWFFnE4Ngxu1lV9fJUsdzupVnUWTLAHMVmLY.3ZiX6XkDwfsq2NI5
+  password: $t*x9h*^
+  resources:
+      - name: "Prof. Chiesa's notes"
+        url: "/assets/notes/Lecture 1.pdf"
+  mirror: https://youtu.be/Onu5A9KDuDM
+- type: lec
+  date: "1/21"
+  week: 1
+  title: "Divide-and-Conquer (Part I)"
+  reading_text: ["1", "2", "3"]
+  resources:
+      - name: "Prof. Chiesa's notes"
+        url: "/assets/notes/Lecture 2.pdf"
+  webcast: https://berkeley.zoom.us/rec/share/yrCawUhczsEwoW_sMTOqpT1f2M9MWnAoi1BpdzL9unaQ1Kw_nx-uXv4EVtSSMATK.qDm4VzH4hYpfE_zA
+  password: 4xr@=yrr
+  mirror: https://youtu.be/_eCHkv-m2rw

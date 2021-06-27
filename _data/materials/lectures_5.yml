@@ -1,0 +1,22 @@
+- type: lec
+  date: "2/16"
+  week: 5
+  title: "Minimum spanning trees"
+  resources:
+      - name: "Prof. Demmel's notes"
+        url: "/assets/notes/Lecture 9.pdf"
+  webcast: https://berkeley.zoom.us/rec/share/nYg4d6XQWWWu31eM7SyM12_3GY3a0etEbhicMEe3Uir-ESENngAlPSraI6EShb7r.7dL3YbUtw1WVDsBI
+  password: "@AB3?uJ%"
+  mirror: https://youtu.be/b287n0v40Gg
+  reading_text: ["5.1"]
+- type: lec
+  date: "2/18"
+  week: 5
+  title: "<b><a href='/midterm1'>Midterm 1</a> (9:00am - 11:00am PST)</b>"
+  resources:
+      - name: "Midterm prep"
+        url: "/assets/pdf/midterm1-prep.pdf"
+      - name: "Midterm prep sols"
+        url: "/assets/pdf/midterm1-prep-sol.pdf"
+      - name: "Midterm walkthrough"
+        url: "https://drive.google.com/drive/u/1/folders/12aENsntv6OlC3OD04pZAOoVFZeJfgeK4"

@@ -1,0 +1,22 @@
+- type: lec
+  date: "4/27"
+  week: 15
+  title: "Hashing"
+  reading_text: ["1.5"]
+  resources:
+      - name: "Prof. Demmel's notes <br> (post-lec)"
+        url: "/assets/notes/Lecture 25 (post).pdf"
+      - name: "Prof. Demmel's notes <br> (pre-lec)"
+        url: "/assets/notes/Lecture 25 (pre).pdf"
+      - name: "Prof. Demmel's slides"
+        url: "/assets/notes/MatMul_LowerBound_Spr21.pdf"
+  webcast: https://berkeley.zoom.us/rec/share/LfYFDOp9xTDYGyYMDYX_ZMiQFWV7cY9zXXLUpUc8iDuDCsGmcpSUYh68AN3BNSkX.7pmH2myeEQKrpUsT
+  password: x@R#q7@w
+  mirror: https://youtu.be/abk6glMNRfs
+- type: lec
+  date: "4/29"
+  week: 15
+  title: "Interactive Proofs (special topic)"
+  webcast: https://berkeley.zoom.us/rec/share/geO64O6vb8XxI_VGVCJ0HKgDkg88PdarpWBBHp15gYwvsZYeZ9MV_3RArGNVK9Go.5_2k1K4ICV_bTNtL
+  password: "oc2^$p1X"
+  mirror: https://youtu.be/h_hIoxb0N78

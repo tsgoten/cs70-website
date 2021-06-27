@@ -1,0 +1,26 @@
+- type: lec
+  date: "4/6"
+  week: 12
+  title: "Search Problems"
+  reading_text: ["8.1"]
+  resources:
+      - name: "Prof. Demmel's notes <br> (post-lec)"
+        url: "/assets/notes/Lecture 19 (post).pdf"
+      - name: "Prof. Demmel's notes <br> (pre-lec)"
+        url: "/assets/notes/Lecture 19 (pre).pdf"
+  webcast: https://berkeley.zoom.us/rec/share/F89AUwzMA6rtq0J2np4cx2Je_7zXmI_9zmWPjzIqW49f6uoA2TBvbTuA2WJFNE4C.hbAy4tJ8fikJItHP
+  password: "2!Q0d%3w"
+  mirror: https://youtu.be/sGZ8XFixzzk
+- type: lec
+  date: "4/8"
+  week: 12
+  title: "NP-Completeness"
+  reading_text: ["8.2", "8.3"]
+  resources:
+      - name: "Prof. Demmel's notes <br> (post-lec)"
+        url: "/assets/notes/Lecture 20 (post).pdf"
+      - name: "Prof. Demmel's notes <br> (pre-lec)"
+        url: "/assets/notes/Lecture 20 (pre).pdf"
+  webcast: https://berkeley.zoom.us/rec/share/UTJhwbFFTO_3LSsM3cPFV4CUotUpusjBg6d29bwgjoPRJsD_cA_sdEyEd8HwhAI.gXSOgE9iYXFFtyHk
+  password: "=M%2s.ms"
+  mirror: https://youtu.be/4H_4i_Zq4ng

@@ -1,0 +1,22 @@
+- type: lec
+  date: "2/9"
+  week: 4
+  title: "Paths in graphs (Part II)"
+  reading_text: ["4.4", "4.5", "4.6", "4.7"]
+  webcast: https://berkeley.zoom.us/rec/share/KIYGVbJn1ZLfk6lqF0zSERQpYYUSch9alHu3pgaVTyEt-sbhRgKFW_qh5iJafMAz.Tjlq95v-6gVb13jN
+  password: "%b5wLL*8"
+  mirror: https://youtu.be/ke6KuTAFt3Q?t=571
+  resources:
+      - name: "Prof. Demmel's notes"
+        url: "/assets/notes/Lecture 7.pdf"
+- type: lec
+  date: "2/11"
+  week: 4
+  title: "Greedy Algorithms"
+  reading_text: ["5", "5.4"]
+  webcast: https://berkeley.zoom.us/rec/share/Cil6lJJ_NMR88mdN5M6AmGl1SjDc9mgB5B5YJ-ydLR3nkZN6g1H_LFVlDExZsp_C.3QODmHMtywBCkhw7
+  mirror: https://www.youtube.com/watch?v=Km0UCH-VMsU&feature=youtu.be
+  password: "*q7QQBr*"
+  resources:
+      - name: "Prof. Demmel's notes"
+        url: "/assets/notes/Lecture 8.pdf"
