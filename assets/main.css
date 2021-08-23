@@ -310,6 +310,11 @@ blockquote *:last-child {
     margin: 0;
 }
 
+#dis-worksheet {
+    display: flex;
+    align-items: center;
+}
+
 /* nav[data-toggle=toc] .nav-link+ul {
     display: block !important;
     margin-bottom: 0 !important;

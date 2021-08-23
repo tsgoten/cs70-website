@@ -70,3 +70,4 @@ Richard recommends that you start the homeworks as early as possible so you get 
 Homeworks are due on Friday night at 10:00 PM. You need to turn in a .pdf file consisting of your written-up solutions; you may use your phone camera or any page-scanning app in order to turn your written homework into a PDF, as long as your work is clear and legible. In addition, Gradescope has an option to associate pages of your work to each homework problem. You must select the relevant pages for every problem. Any problems without pages selected will receive zero credit. If you have any questions about the format of a homework submission, please go to appointments or homework party.
 
 ### MORE TO COME
+****

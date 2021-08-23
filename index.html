@@ -75,11 +75,12 @@ Professor Ayazifar's OH: F 3:00 - 5:00 pm</p>
                                 <div class="badge badge-light my-1 p-3 main-badge">
                                     <a {% if material.posted %}
                                         href="/assets/pdf/dis{{material.name}}.pdf"
-                                        {% else %} class="text-muted" {% endif %}>Section {{material.num}}</a>,<br/>
+                                        {% else %} class="text-muted" {% endif %}>Section {{material.num}}</a>, <br/>
                                     <a {% if material.solutions %}
                                         href="/assets/pdf/dis{{material.name}}-sol.pdf"
                                         {% else %} class="text-muted" {% endif %}>solutions</a><br/>
                                 </div>
+                                <br>
                                 {%if material.walkthrough %}
                                 <div class="badge badge-light my-1 p-3 main-badge">
                                     <a href="{{material.walkthrough}}">Section {{material.num}} walkthrough</a><br/>
