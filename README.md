@@ -1,4 +1,4 @@
-# CS 170 Website
+# CS 70 Website
 
 ## How to build the website locally
 
