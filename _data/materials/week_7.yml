@@ -1,8 +1,8 @@
 - type: lec
-  date: "10/5"
+  date: "10/12"
   week: 7
-  title: "Counting"
-  reading_text: [10]
+  title: "Countability and Computability"
+  reading_text: [11]
   webcast: 
   password:
   mirror:
@@ -10,10 +10,10 @@
       - name:
         url:
 - type: lec
-  date: "10/7"
+  date: "10/14"
   week: 7
-  title: "Counting"
-  reading_text: [10]
+  title: "TBD"
+  reading_text:
   webcast: 
   password:
   mirror:

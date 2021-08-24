@@ -1,8 +1,8 @@
 - type: lec
-  date: "9/28"
+  date: "10/5"
   week: 6
-  title: "Polynomials, Secret Sharing"
-  reading_text: [8]
+  title: "Counting"
+  reading_text: [10]
   webcast: 
   password:
   mirror:
@@ -10,10 +10,10 @@
       - name:
         url:
 - type: lec
-  date: "9/30"
+  date: "10/7"
   week: 6
-  title: "Error Correcting Codes"
-  reading_text: [9]
+  title: "Counting"
+  reading_text: [10]
   webcast: 
   password:
   mirror:

@@ -1,22 +1,22 @@
 - type: lec
-  date: "8/24"
+  date: "8/31"
   week: 1
-  title: No Lecture
-  reading_text:
+  title: "Proofs, Induction"
+  reading_text: [2, 3]
   webcast: 
-  password: 
-  resources:
-      - name: 
-        url:
+  password:
   mirror:
-- type: lec
-  date: "8/26"
-  week: 1
-  title: Introduction, Propositional Logic, Proofs
-  reading_text: ["0", "1", "2"]
-  webcast: 
-  password: 
   resources:
       - name:
-        url: 
+        url:
+- type: lec
+  date: "9/2"
+  week: 1
+  title: "Induction"
+  reading_text: [3]
+  webcast: 
+  password:
   mirror:
+  resources:
+      - name:
+        url:
