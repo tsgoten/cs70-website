@@ -1,0 +1,22 @@
+- type: lec
+  date: "9/7"
+  week: 3
+  title: "Stable Matching"
+  reading_text: [4]
+  webcast: 
+  password:
+  mirror:
+  resources:
+      - name:
+        url:
+- type: lec
+  date: "9/9"
+  week: 3
+  title: "Graphs"
+  reading_text: [5]
+  webcast: 
+  password:
+  mirror:
+  resources:
+      - name:
+        url:

@@ -1,0 +1,22 @@
+- type: lec
+  date: "9/21"
+  week: 5
+  title: "Bijections/FLT, CRT"
+  reading_text: [6, 7]
+  webcast: 
+  password:
+  mirror:
+  resources:
+      - name:
+        url:
+- type: lec
+  date: "9/23"
+  week: 5
+  title: "RSA, Polynomials"
+  reading_text: [7, 8]
+  webcast: 
+  password:
+  mirror:
+  resources:
+      - name:
+        url:

@@ -1,24 +1,24 @@
-- type: hw
-  num: 1
-  name: "01"
-  posted: true
-  solutions: true
-  weeks: [1]
-- type: hw
-  num: 2
-  name: "02"
-  posted: true
-  solutions: true
-  weeks: [2]
-- type: hw
-  num: 3
-  name: "03"
-  posted: true
-  solutions: false
-  weeks: [3]
-- type: hw
-  num: 4
-  name: "04"
-  posted: false
-  solutions: false
-  weeks: [4]
+# - type: hw
+#   num: 1
+#   name: "01"
+#   posted: true
+#   solutions: true
+#   weeks: [1]
+# - type: hw
+#   num: 2
+#   name: "02"
+#   posted: true
+#   solutions: true
+#   weeks: [2]
+# - type: hw
+#   num: 3
+#   name: "03"
+#   posted: true
+#   solutions: false
+#   weeks: [3]
+# - type: hw
+#   num: 4
+#   name: "04"
+#   posted: false
+#   solutions: false
+#   weeks: [4]

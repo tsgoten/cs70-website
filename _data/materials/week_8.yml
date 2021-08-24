@@ -1,0 +1,22 @@
+- type: lec
+  date: "10/12"
+  week: 8
+  title: "Countability and Computability"
+  reading_text: [11]
+  webcast: 
+  password:
+  mirror:
+  resources:
+      - name:
+        url:
+- type: lec
+  date: "10/14"
+  week: 8
+  title: "TBD"
+  reading_text:
+  webcast: 
+  password:
+  mirror:
+  resources:
+      - name:
+        url:

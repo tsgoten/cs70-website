@@ -1,0 +1,22 @@
+- type: lec
+  date: "9/28"
+  week: 6
+  title: "Polynomials, Secret Sharing"
+  reading_text: [8]
+  webcast: 
+  password:
+  mirror:
+  resources:
+      - name:
+        url:
+- type: lec
+  date: "9/30"
+  week: 6
+  title: "Error Correcting Codes"
+  reading_text: [9]
+  webcast: 
+  password:
+  mirror:
+  resources:
+      - name:
+        url:

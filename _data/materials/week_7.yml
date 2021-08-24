@@ -1,0 +1,22 @@
+- type: lec
+  date: "10/5"
+  week: 7
+  title: "Counting"
+  reading_text: [10]
+  webcast: 
+  password:
+  mirror:
+  resources:
+      - name:
+        url:
+- type: lec
+  date: "10/7"
+  week: 7
+  title: "Counting"
+  reading_text: [10]
+  webcast: 
+  password:
+  mirror:
+  resources:
+      - name:
+        url:

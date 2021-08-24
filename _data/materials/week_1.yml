@@ -1,0 +1,22 @@
+- type: lec
+  date: "8/24"
+  week: 1
+  title: No Lecture
+  reading_text:
+  webcast: 
+  password: 
+  resources:
+      - name: 
+        url:
+  mirror:
+- type: lec
+  date: "8/26"
+  week: 1
+  title: Introduction, Propositional Logic, Proofs
+  reading_text: ["0", "1", "2"]
+  webcast: 
+  password: 
+  resources:
+      - name:
+        url: 
+  mirror:

@@ -1,0 +1,22 @@
+- type: lec
+  date: "9/14"
+  week: 4
+  title: "Graphs"
+  reading_text: [5]
+  webcast: 
+  password:
+  mirror:
+  resources:
+      - name:
+        url:
+- type: lec
+  date: "9/16"
+  week: 4
+  title: "Modular Arithmetic"
+  reading_text: [6]
+  webcast: 
+  password:
+  mirror:
+  resources:
+      - name:
+        url:
