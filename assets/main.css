@@ -315,6 +315,10 @@ blockquote *:last-child {
     align-items: center;
 }
 
+.instructors {
+    display: flex;
+}
+
 /* nav[data-toggle=toc] .nav-link+ul {
     display: block !important;
     margin-bottom: 0 !important;
