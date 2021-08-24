@@ -5,6 +5,24 @@
 You can build the website locally, if you would like to preview changes before deploying them.
 
 1. Install jekyll (see [here](https://jekyllrb.com/docs/installation/) for platform-specific instructions)
+    a. After installing all the necessary prerequisites, initialize the Gemfile. The sequence may look something like this (on Linux):
+    ```bash
+    # install Ruby/prerequisites
+    sudo apt-get install ruby-full build-essential zlib1g-dev
+    # set correct PATH variables
+    echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+    echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+    echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+    source ~/.bashrc
+    # install Jekyll and Bundler
+    gem install jekyll bundler
+    # navigate to the project directory and initialize a Gemfile
+    bundle init
+    # add Jekyll to the Gemfile
+    bundle add jekyll
+    # you should now be good to go!
+    ```
+    
 2. Run `bundle exec jekyll serve` to serve the local site on `localhost:4000`. Ctrl-C to stop the server from building.
 
 ## How to upload lecture slides
