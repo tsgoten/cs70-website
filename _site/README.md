@@ -187,3 +187,14 @@ Relevant directories:
     ```
 
     The homework file looks almost exactly the same, and the process is the same.
+
+## How to change the calendar
+Relevant files: 
+- `_layouts/calendar-layout.html` - the file generating CSS/calendar formatting
+- `pages/calendar.html` - a short config file for what the calendar should display
+
+1. Generate a Google Calendar API key.
+2. Create your calendar and make it viewable to everyone (not just @berkeley.edu users).
+3. In `_layouts/calendar-layout.html`, change the link at the top to the link to your calendar (and change the semester if needed). Change the `googleCalendarApiKey: [key]` to your generated API key.
+4. In `pages/calendar.html`, change `calendar_id` to the one shown in the settings in your created calendar. Also, change `range_start` and `range_end` to the start and end dates of your semester.
+
