@@ -17,6 +17,8 @@
   webcast: 
   password: 
   resources:
-      - name:
-        url: 
+      - name: lecture slides 
+        url: assets/lec/lec-1.pdf
+      - name: 6 page slides 
+        url: assets/lec/lec-1-6up.pdf
   mirror:
