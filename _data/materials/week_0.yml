@@ -18,7 +18,7 @@
   password: 
   resources:
       - name: lecture slides 
-        url: assets/lec/lec-1.pdf
+        url: assets/lec/lec-1-handout.pdf
       - name: 6 page slides 
         url: assets/lec/lec-1-6up.pdf
   mirror:
