@@ -1,7 +1,7 @@
 ---
 name: Richard Hu
 email: r.hu@
-image: tas/richard-hu.jpg
+image: tas/richard-hu.png
 type: Head TA
 office_hours: TBD
 website:
