@@ -1,6 +1,6 @@
 ---
 name: Tarang Srivastava
-email: tarnag.sriv@
+email: tarang.sriv@
 image: tas/tarang.jpg
 type: Head TA
 office_hours: TBD
