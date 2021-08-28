@@ -1,5 +1,6 @@
 ---
 name: Richard Hu
+pronouns: he/him
 email: r.hu@
 image: tas/richard-hu.png
 type: Head TA
