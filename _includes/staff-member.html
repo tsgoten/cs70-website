@@ -10,6 +10,11 @@
             {% endif %}
             {{ member.name }}
         </h5>
+        {% if member.pronouns %}
+            <p>
+                {{member.pronouns}}
+            </p>
+        {% endif %}
         <p class="my-1">
         {% if member.role %}
            <span class="text-muted">{{ member.role }}</span>

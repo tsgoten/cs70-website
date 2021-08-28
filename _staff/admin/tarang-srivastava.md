@@ -1,5 +1,6 @@
 ---
 name: Tarang Srivastava
+pronouns: he/him
 email: tarang.sriv@
 image: tas/tarang-srivastava.jpg
 type: Head TA
