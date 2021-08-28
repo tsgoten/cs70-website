@@ -4,6 +4,6 @@ email: rlaw@
 image: tas/rachel-lawrence.jpg
 type: TA
 office_hours: TBD
-website: rlaw.me
+website: https://rlaw.me
 bio:
 ---
