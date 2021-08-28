@@ -1,6 +1,6 @@
 ---
 name: Austin Lei
-pronouns: he series
+pronouns: he/him
 email: 1austinlei@
 image: tas/austin-lei.jpg
 type: TA
