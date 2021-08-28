@@ -1,0 +1,9 @@
+---
+name: Arin Chang
+email: arinchang@
+image: tas/arin-chang.jpeg
+type: TA
+office_hours: TBD
+website:
+bio: Hi everyone! I’m a third year CS/math major from Saratoga, CA. I enjoy getting stuck on puzzles, hiking, and making violin covers for my youtube channel. Feel free to talk to me about anything :) 
+---
