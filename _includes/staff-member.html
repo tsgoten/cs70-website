@@ -28,9 +28,9 @@
                 {{ member.office_hours }}
             </p>
         {% endif %}
-        {% if member.content %}
+        {% if member.bio %}
             <span class="staff-bio">
-                {{ member.content | markdownify }}
+                {{ member.bio | markdownify }}
             </small>
         {% endif %}
     </div>
