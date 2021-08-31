@@ -9,7 +9,7 @@
   resources:
   resources:
       - name: lecture slides 
-        url: assets/lec/lec-2.pdf
+        url: assets/lec/lec-2-handout.pdf
       - name: 6 page slides 
         url: assets/lec/lec-2-6up.pdf
 - type: lec
