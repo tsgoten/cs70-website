@@ -1,72 +1,72 @@
 - type: dis
   num: 1A
-  name: "01A"
+  name: "01a"
   posted: true
   solutions: false
   weeks: [1]
 - type: dis
   num: 1B
-  name: "01B"
+  name: "01b"
   posted: false
   solutions: false
   weeks: [1]
 - type: dis
   num: 2A
-  name: "02A"
+  name: "02a"
   posted: false
   solutions: false
   weeks: [2]
 - type: dis
   num: 2B
-  name: "02B"
+  name: "02b"
   posted: false
   solutions: false
   weeks: [2]
 - type: dis
   num: 3A
-  name: "03A"
+  name: "03a"
   posted: false
   solutions: false
   weeks: [3]
 - type: dis
   num: 3B
-  name: "03B"
+  name: "03b"
   posted: false
   solutions: false
   weeks: [3]
 - type: dis
   num: 4A
-  name: "04A"
+  name: "04a"
   posted: false
   solutions: false
   weeks: [4]
 - type: dis
   num: 4B
-  name: "04B"
+  name: "04b"
   posted: false
   solutions: false
   weeks: [4]
 - type: dis
   num: 5A
-  name: "05A"
+  name: "05a"
   posted: false
   solutions: false
   weeks: [5]
 - type: dis
   num: 5B
-  name: "05B"
+  name: "05b"
   posted: false
   solutions: false
   weeks: [5]
 - type: dis
   num: 6A
-  name: "06A"
+  name: "06a"
   posted: false
   solutions: false
   weeks: [6]
 - type: dis
   num: 6B
-  name: "06B"
+  name: "06b"
   posted: false
   solutions: false
   weeks: [6]
