@@ -1,7 +1,7 @@
 - type: dis
   num: 1A
   name: "01A"
-  posted: false
+  posted: true
   solutions: false
   weeks: [1]
 - type: dis

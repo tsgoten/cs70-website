@@ -2,14 +2,15 @@
     {% assign img_url = '/assets/staff-images/' | append: member.image | relative_url %}
     <div style="background-image: url({{ img_url }})" class="mr-3 rounded-circle staff-image"></div>
     <div class="media-body">
+        {% if member.pronouns %}
         <h5 class="my-0">
-            {% if member.address %}
-                <span class="text-muted">
-                    {{ member.address }}
-                </span>
-            {% endif %}
+            {{ member.name }} ({{member.pronouns}})
+        </h5>
+        {% else %}
+        <h5 class="my-0">
             {{ member.name }}
         </h5>
+        {% endif %}
         <p class="my-1">
         {% if member.role %}
            <span class="text-muted">{{ member.role }}</span>
@@ -28,9 +29,9 @@
                 {{ member.office_hours }}
             </p>
         {% endif %}
-        {% if member.content %}
+        {% if member.bio %}
             <span class="staff-bio">
-                {{ member.content | markdownify }}
+                {{ member.bio | markdownify }}
             </small>
         {% endif %}
     </div>
