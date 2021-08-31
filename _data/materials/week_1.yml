@@ -7,8 +7,11 @@
   password:
   mirror:
   resources:
-      - name:
-        url:
+  resources:
+      - name: lecture slides 
+        url: assets/lec/lec-2.pdf
+      - name: 6 page slides 
+        url: assets/lec/lec-2-6up.pdf
 - type: lec
   date: "9/2"
   week: 1
