@@ -1,5 +1,6 @@
 ---
 name: Arun Ganesh
+pronouns: he/him
 email: arunganesh@
 image: tas/arun-ganesh.jpg
 type: TA
