@@ -27,13 +27,13 @@ If you have a more specific administrative question or any feedback, please send
 ### Office Hours
 
 Office Hours will be both in-person and online.
-The OH queue will be hosted at [oh.eecs70.org](oh.eecs70.org).
+The OH queue will be hosted at [oh.eecs70.org](https://oh.eecs70.org).
 OHs will be hybrid or remote, please see the calendar for details.
 
 #### In-Person
 
 See the Calendar tab for OH time and location.
-You will still submit a ticket online at [oh.eecs70.org](oh.eecs70.org) to join the OH queue.
+You will still submit a ticket online at [oh.eecs70.org](https://oh.eecs70.org) to join the OH queue.
 In the ticket please specify the room you are currently in.
 Once it is your turn a Course Staff Member will call your name to help you with your ticket.
 
@@ -63,7 +63,7 @@ You must attend all exams in order to pass the class. We will consider granting 
 
 ### Materials
 
-All materials will be on [the front page](eecs70.org).
+All materials will be on [the front page](https://eecs70.org/).
 
 ### Notes
 
