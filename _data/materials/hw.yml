@@ -8,12 +8,12 @@
   num: 2
   name: "02"
   posted: true
-  solutions: false
+  solutions: true
   weeks: [2]
 - type: hw
   num: 3
   name: "03"
-  posted: false
+  posted: true
   solutions: false
   weeks: [3]
 - type: hw
