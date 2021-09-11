@@ -4,7 +4,7 @@ pronouns: he/him
 email: alec.li@
 image: tas/alec-li.jpg
 type: TA
-office_hours: TBD
+office_hours: Th4-6p
 website: https://smartspot2.github.io/
 bio: 
 ---

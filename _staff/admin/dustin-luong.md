@@ -2,8 +2,8 @@
 name: Dustin Luong
 email: dstn.luong@
 image: tas/dustin-luong.jpg
-type: TA
-office_hours: TBD
+type: Head TA
+office_hours: Th3-4p
 website:
 bio:
 ---
