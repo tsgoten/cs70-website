@@ -27,8 +27,13 @@
             <p>
                 Office Hours:
                 {{ member.office_hours }}
+                <br>
+                {% if member.oh_link %}
+                    <a href="{{member.oh_link}}">Office Hour Link</a>
+                {% endif %}
             </p>
         {% endif %}
+
         {% if member.bio %}
             <span class="staff-bio">
                 {{ member.bio | markdownify }}
