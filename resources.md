@@ -1,6 +1,5 @@
 ---
 layout: page
-# sidebar: true
 title: Resources
 permalink: /resources/
 ---
@@ -13,10 +12,10 @@ Similarly, the precise coverage of various midterms may vary from semester to se
 **Ultimately it is this semester’s lectures, notes, sections and homework that determine what you are expected to know for this semester’s course and are the best resource to study for the exams.**
 
 ## Exams
-- Fall 2020: [Midterm 1](http://www.eecs70.org/static/resources/mt1/midterm_fa20.pdf) [(Sol)](http://www.eecs70.org/static/resources/mt1/midterm_fa20_sol.pdf) [Final](http://www.eecs70.org/static/resources/final/final_fa20.pdf) [(Sol)](http://www.eecs70.org/static/resources/final/final_fa20_sol.pdf)
-- Spring 2019: [Midterm 1](http://www.eecs70.org/static/resources/mt1/mt1_sp19.pdf) [(Sol)](http://www.eecs70.org/static/resources/mt1/mt1_sp19_sol.pdf) [Midterm 2](http://www.eecs70.org/static/resources/mt2/mt2_sp19.pdf) [(Sol)](http://www.eecs70.org/static/resources/mt2/mt2_sp19_sol.pdf) [Final](http://www.eecs70.org/static/resources/final/final_sp19.pdf) [(Sol)](http://www.eecs70.org/static/resources/final/final_sp19_sol.pdf)
-- Fall 2018: [Midterm 1](http://www.eecs70.org/static/resources/mt1/mt1_fa18.pdf) [(Sol)](http://www.eecs70.org/static/resources/mt1/mt1_fa18_sol.pdf) [Midterm 2](http://www.eecs70.org/static/resources/mt2/mt2_fa18.pdf) [(Sol)](http://www.eecs70.org/static/resources/mt2/mt2_fa18_sol.pdf) [Final](http://www.eecs70.org/static/resources/final/final_fa18.pdf) [(Sol)](http://www.eecs70.org/static/resources/final/final_fa18_sol.pdf)
-- Spring 2018: [Midterm 1](http://www.eecs70.org/static/resources/mt1/mt1_sp18.pdf) [(Sol)](http://www.eecs70.org/static/resources/mt1/mt1_sp18_sol.pdf) [Midterm 2](http://www.eecs70.org/static/resources/mt2/mt2_sp18.pdf) [(Sol)](http://www.eecs70.org/static/resources/mt2/mt2_sp18_sol.pdf) [Final](http://www.eecs70.org/static/resources/final/final_sp18.pdf) [(Sol)](http://www.eecs70.org/static/resources/final/final_sp18_sol.pdf)
+- Fall 2020: [Midterm 1](http://www.eecs70.org/resources/mt1/midterm_fa20.pdf) [(Sol)](http://www.eecs70.org/resources/mt1/midterm_fa20_sol.pdf) [Final](http://www.eecs70.org/resources/final/final_fa20.pdf) [(Sol)](http://www.eecs70.org/resources/final/final_fa20_sol.pdf)
+- Spring 2019: [Midterm 1](http://www.eecs70.org/resources/mt1/mt1_sp19.pdf) [(Sol)](http://www.eecs70.org/resources/mt1/mt1_sp19_sol.pdf) [Midterm 2](http://www.eecs70.org/resources/mt2/mt2_sp19.pdf) [(Sol)](http://www.eecs70.org/resources/mt2/mt2_sp19_sol.pdf) [Final](http://www.eecs70.org/resources/final/final_sp19.pdf) [(Sol)](http://www.eecs70.org/resources/final/final_sp19_sol.pdf)
+<!-- - Fall 2018: [Midterm 1](http://www.eecs70.org/resources/mt1/mt1_fa18.pdf) [(Sol)](http://www.eecs70.org/resources/mt1/mt1_fa18_sol.pdf) [Midterm 2](http://www.eecs70.org/resources/mt2/mt2_fa18.pdf) [(Sol)](http://www.eecs70.org/resources/mt2/mt2_fa18_sol.pdf) [Final](http://www.eecs70.org/resources/final/final_fa18.pdf) [(Sol)](http://www.eecs70.org/resources/final/final_fa18_sol.pdf) -->
+- Spring 2018: [Midterm 1](http://www.eecs70.org/resources/mt1/mt1_sp18.pdf) [(Sol)](http://www.eecs70.org/resources/mt1/mt1_sp18_sol.pdf) [Midterm 2](http://www.eecs70.org/resources/mt2/mt2_sp18.pdf) [(Sol)](http://www.eecs70.org/resources/mt2/mt2_sp18_sol.pdf) [Final](http://www.eecs70.org/resources/final/final_sp18.pdf) [(Sol)](http://www.eecs70.org/resources/final/final_sp18_sol.pdf)
 
 ## LaTeX
 
