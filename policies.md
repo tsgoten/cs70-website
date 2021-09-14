@@ -41,7 +41,7 @@ Once it is your turn a Course Staff Member will call your name to help you with 
 
 At any time of any day, you can create a group for a question you are working on. Specify the assignment and question you’re working on and select “online” for location. Enter your own video call link - other students can join this group to work together on the same problem. You should look to see if someone else has already started a group for the problem you are working on, and join that group if so.
 
-#### Queue 
+#### Queue
 At the following times, course staff will be monitoring the online queue - TBA. Anyone in a “Party” group may hit “Ask for Help (as a group)” to submit their group to the queue. A course staff member will join the video call listed on the group when they help you. Alternatively, you can submit an individual ticket to the queue. Follow the same protocol as party group creation (question, location, zoom link).
 
 ## Exams
@@ -54,7 +54,7 @@ Unfortunately, due to large enrollment, we are unable to accommodate final exam 
 
 ### Exam Dates
 
-- Midterm Date: TBA
+- Midterm Date: 10/15/2021 9-11 pm
 - Final Date: 12/15/2021 8-11 am
 
 ### Exam Attendance Policy
@@ -63,7 +63,7 @@ You must attend all exams in order to pass the class. We will consider granting 
 
 ### Materials
 
-All materials will be on [the front page](https://eecs70.org/).
+All materials will be on [the front page](https://www.eecs70.org/).
 
 ### Notes
 
