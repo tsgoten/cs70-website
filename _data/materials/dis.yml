@@ -26,12 +26,12 @@
   num: 3A
   name: "03a"
   posted: true
-  solutions: false
+  solutions: true
   weeks: [3]
 - type: dis
   num: 3B
   name: "03b"
-  posted: false
+  posted: true
   solutions: false
   weeks: [3]
 - type: dis
