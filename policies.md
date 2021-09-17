@@ -54,7 +54,7 @@ Unfortunately, due to large enrollment, we are unable to accommodate final exam 
 
 ### Exam Dates
 
-- Midterm Date: 10/15/2021 9-11 pm
+- Midterm Date: 10/15/2021 7-9 pm
 - Final Date: 12/15/2021 8-11 am
 
 ### Exam Attendance Policy
