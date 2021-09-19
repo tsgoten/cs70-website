@@ -32,7 +32,7 @@
   num: 3B
   name: "03b"
   posted: true
-  solutions: false
+  solutions: true
   weeks: [3]
 - type: dis
   num: 4A
