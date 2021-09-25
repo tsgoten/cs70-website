@@ -20,12 +20,12 @@
   num: 4
   name: "04"
   posted: true
-  solutions: false
+  solutions: true
   weeks: [4]
 - type: hw
   num: 5
   name: "05"
-  posted: false
+  posted: true
   solutions: false
   weeks: [5]
 - type: hw
