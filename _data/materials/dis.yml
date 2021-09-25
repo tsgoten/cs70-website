@@ -44,7 +44,7 @@
   num: 4B
   name: "04b"
   posted: true
-  solutions: false
+  solutions: true
   weeks: [4]
 - type: dis
   num: 5A
