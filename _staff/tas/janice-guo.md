@@ -1,10 +1,10 @@
 ---
 name: Janice Guo
 pronouns: she/her
-email: janice-guo@
+email: janiceguo@
 image: tas/janice-guo.jpg
 type: TA
-office_hours: Th 4-6p
+office_hours: Tu 4-6p
 website: 
 bio: 
 ---
