@@ -32,7 +32,7 @@
   num: 6
   name: "06"
   posted: true
-  solutions: false
+  solutions: true
   weeks: [6]
 - type: hw
   num: 7
