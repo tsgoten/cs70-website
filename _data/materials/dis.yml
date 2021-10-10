@@ -70,3 +70,15 @@
   posted: true
   solutions: true
   weeks: [6]
+- type: dis
+  num: 7A
+  name: "07a"
+  posted: false
+  solutions: false
+  weeks: [7]
+- type: dis
+  num: 7B
+  name: "07b"
+  posted: false
+  solutions: false
+  weeks: [7]
