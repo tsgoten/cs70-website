@@ -14,23 +14,29 @@
   num: 3
   name: "03"
   posted: true
-  solutions: false
+  solutions: true
   weeks: [3]
 - type: hw
   num: 4
   name: "04"
-  posted: false
-  solutions: false
+  posted: true
+  solutions: true
   weeks: [4]
 - type: hw
   num: 5
   name: "05"
-  posted: false
-  solutions: false
+  posted: true
+  solutions: true
   weeks: [5]
 - type: hw
   num: 6
   name: "06"
-  posted: false
-  solutions: false
+  posted: true
+  solutions: true
   weeks: [6]
+- type: hw
+  num: 7
+  name: "07"
+  posted: true
+  solutions: true
+  weeks: [7]

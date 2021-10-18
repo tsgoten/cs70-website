@@ -7,8 +7,12 @@
   password:
   mirror:
   resources:
-      - name:
-        url:
+      - name: lecture slides 
+        url: assets/lec/lec-12-handout.pdf
+      - name: 6 page slides 
+        url: assets/lec/lec-12-6up.pdf
+      - name: all slides (step by step)
+        url: assets/lec/lec-12.pdf
 - type: lec
   date: "10/7"
   week: 6
@@ -18,5 +22,10 @@
   password:
   mirror:
   resources:
-      - name:
-        url:
+      - name: lecture slides 
+        url: assets/lec/lec-13-handout.pdf
+      - name: 6 page slides 
+        url: assets/lec/lec-13-6up.pdf
+      - name: all slides (step by step)
+        url: assets/lec/lec-13.pdf
+

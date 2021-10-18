@@ -7,12 +7,16 @@
   password:
   mirror:
   resources:
-      - name:
-        url:
+      - name: lecture slides 
+        url: assets/lec/lec-14-handout.pdf
+      - name: 6 page slides 
+        url: assets/lec/lec-14-6up.pdf
+      - name: all slides (step by step)
+        url: assets/lec/lec-14.pdf
 - type: lec
   date: "10/14"
   week: 7
-  title: "TBD"
+  title: "No Lecture: Midterm on 10/15."
   reading_text:
   webcast: 
   password:

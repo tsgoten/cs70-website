@@ -26,47 +26,59 @@
   num: 3A
   name: "03a"
   posted: true
-  solutions: false
+  solutions: true
   weeks: [3]
 - type: dis
   num: 3B
   name: "03b"
-  posted: false
-  solutions: false
+  posted: true
+  solutions: true
   weeks: [3]
 - type: dis
   num: 4A
   name: "04a"
-  posted: false
-  solutions: false
+  posted: true
+  solutions: true
   weeks: [4]
 - type: dis
   num: 4B
   name: "04b"
-  posted: false
-  solutions: false
+  posted: true
+  solutions: true
   weeks: [4]
 - type: dis
   num: 5A
   name: "05a"
-  posted: false
-  solutions: false
+  posted: true
+  solutions: true
   weeks: [5]
 - type: dis
   num: 5B
   name: "05b"
-  posted: false
-  solutions: false
+  posted: true
+  solutions: true
   weeks: [5]
 - type: dis
   num: 6A
   name: "06a"
-  posted: false
-  solutions: false
+  posted: true
+  solutions: true
   weeks: [6]
 - type: dis
   num: 6B
   name: "06b"
+  posted: true
+  solutions: true
+  weeks: [6]
+- type: dis
+  num: 7A
+  name: "07a"
+  posted: true
+  solutions: false
+  weeks: [7]
+- type: dis
+  num: 7B
+  name: "07b"
   posted: false
   solutions: false
-  weeks: [6]
+  weeks: [7]
