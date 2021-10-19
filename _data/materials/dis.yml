@@ -77,12 +77,6 @@
   solutions: true
   weeks: [7]
 - type: dis
-  num: 7B
-  name: "07b"
-  posted: false
-  solutions: false
-  weeks: [7]
-- type: dis
   num: 8A
   name: "08a"
   posted: true
