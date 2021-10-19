@@ -1,0 +1,22 @@
+- type: lec
+  date: "11/2"
+  week: 10
+  title: "Distributions, Expectations and Independence"
+  reading_text: [15]
+  webcast: 
+  password:
+  mirror:
+  resources:
+      - name:
+        url:
+- type: lec
+  date: "11/4"
+  week: 10
+  title: "Variance, Concentration Inequalities, WLLN"
+  reading_text: [16]
+  webcast: 
+  password:
+  mirror:
+  resources:
+      - name:
+        url:

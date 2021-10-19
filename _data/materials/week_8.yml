@@ -1,7 +1,7 @@
 - type: lec
   date: "10/19"
   week: 8
-  title: "TBD"
+  title: "Introduction to Discrete Probability"
   reading_text: [13]
   webcast: 
   password:
@@ -12,7 +12,7 @@
 - type: lec
   date: "10/21"
   week: 8
-  title: "TBD"
+  title: "Conditional Probability, Independence, and Combinations of Events"
   reading_text: [14]
   webcast: 
   password:

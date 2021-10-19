@@ -1,0 +1,22 @@
+- type: lec
+  date: "10/26"
+  week: 9
+  title: "Bayes' Rule"
+  reading_text: [14]
+  webcast: 
+  password:
+  mirror:
+  resources:
+      - name:
+        url:
+- type: lec
+  date: "10/28"
+  week: 9
+  title: "Random Variables"
+  reading_text: [15, 19]
+  webcast: 
+  password:
+  mirror:
+  resources:
+      - name:
+        url:
