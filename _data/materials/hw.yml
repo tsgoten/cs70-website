@@ -44,12 +44,12 @@
   num: 8
   name: "08"
   posted: true
-  solutions: false
+  solutions: true
   weeks: [8]
 - type: hw
   num: 9
   name: "09"
-  posted: false
+  posted: true
   solutions: false
   weeks: [9]
 - type: hw
