@@ -91,7 +91,7 @@
 - type: dis
   num: 9A
   name: "09a"
-  posted: false
+  posted: true
   solutions: false
   weeks: [9]
 - type: dis
