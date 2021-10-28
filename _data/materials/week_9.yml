@@ -14,9 +14,9 @@
   week: 9
   title: "Random Variables"
   reading_text: [15, 19]
-  webcast: 
+  webcast: https://youtu.be/063cjJCOcjU
   password:
   mirror:
   resources:
-      - name:
-        url:
+      - name: Conditoal Independence Video
+        url: https://youtu.be/ecZsXOhs5Qk
