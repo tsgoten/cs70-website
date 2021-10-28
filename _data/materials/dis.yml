@@ -92,12 +92,12 @@
   num: 9A
   name: "09a"
   posted: true
-  solutions: false
+  solutions: true
   weeks: [9]
 - type: dis
   num: 9B
   name: "09b"
-  posted: false
+  posted: true
   solutions: false
   weeks: [9]
 - type: dis
