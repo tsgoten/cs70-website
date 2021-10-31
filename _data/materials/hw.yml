@@ -50,7 +50,7 @@
   num: 9
   name: "09"
   posted: true
-  solutions: false
+  solutions: true
   weeks: [9]
 - type: hw
   num: 10
