@@ -103,7 +103,7 @@
 - type: dis
   num: 10A
   name: "10a"
-  posted: false
+  posted: true
   solutions: false
   weeks: [10]
 - type: dis
