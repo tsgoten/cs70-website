@@ -3,12 +3,10 @@
   week: 10
   title: "Distributions, Expectations and Independence"
   reading_text: [15]
-  webcast: 
+  webcast: https://youtu.be/oAS1QqIdNB8
   password:
   mirror:
   resources:
-      - name:
-        url:
 - type: lec
   date: "11/4"
   week: 10
