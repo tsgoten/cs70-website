@@ -104,12 +104,12 @@
   num: 10A
   name: "10a"
   posted: true
-  solutions: false
+  solutions: true
   weeks: [10]
 - type: dis
   num: 10B
   name: "10b"
-  posted: false
+  posted: true
   solutions: false
   weeks: [10]
 - type: dis
