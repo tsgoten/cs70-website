@@ -10,7 +10,7 @@
 - type: lec
   date: "11/4"
   week: 10
-  title: "Variance, Concentration Inequalities, WLLN"
+  title: "Variance and Total Expectation"
   reading_text: [16]
   webcast: https://youtu.be/7RVJkImRu8k
   password:
