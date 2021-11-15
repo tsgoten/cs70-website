@@ -119,12 +119,6 @@
   solutions: true
   weeks: [11]
 - type: dis
-  num: 11B
-  name: "11b"
-  posted: false
-  solutions: false
-  weeks: [11]
-- type: dis
   num: 12A
   name: "12a"
   posted: false
