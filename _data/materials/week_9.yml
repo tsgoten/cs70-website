@@ -7,8 +7,6 @@
   password:
   mirror:
   resources:
-      - name:
-        url:
 - type: lec
   date: "10/28"
   week: 9
