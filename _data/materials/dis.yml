@@ -128,7 +128,7 @@
   num: 12B
   name: "12b"
   posted: true
-  solutions: false
+  solutions: true
   weeks: [12]
 - type: dis
   num: 13A
