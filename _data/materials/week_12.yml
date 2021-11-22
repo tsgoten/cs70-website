@@ -10,9 +10,11 @@
 - type: lec
   date: "11/18"
   week: 12
-  title: "Continuous Probability Distributions"
-  reading_text: [17, 21]
-  webcast: 
+  title: "Concentration Inequalities"
+  reading_text: [17]
+  webcast: https://youtu.be/6Q7uMdMVL9k
   password:
   mirror:
   resources:
+      - name: Pollster Problem
+        url: https://youtu.be/trUpFjXUvSo
