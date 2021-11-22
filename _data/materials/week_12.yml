@@ -16,5 +16,5 @@
   password:
   mirror:
   resources:
-      - name: Pollster Problem + Bonus
-      - url: https://youtu.be/trUpFjXUvSo
+      - name: Pollster Problem
+        url: https://youtu.be/trUpFjXUvSo
