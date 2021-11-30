@@ -137,12 +137,6 @@
   solutions: false
   weeks: [13]
 - type: dis
-  num: 13B
-  name: "13b"
-  posted: false
-  solutions: false
-  weeks: [13]
-- type: dis
   num: 14A
   name: "14a"
   posted: false
