@@ -133,8 +133,8 @@
 - type: dis
   num: 13A
   name: "13a"
-  posted: false
-  solutions: false
+  posted: true
+  solutions: true
   weeks: [13]
 - type: dis
   num: 14A
