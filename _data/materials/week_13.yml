@@ -7,7 +7,7 @@
   password:
   mirror:
   resources:
-      - name: Discussion 13A
+      - name: Discussion 13A Recording
         url: https://forms.gle/iUHLbKrUErgZeaxG8
 - type: lec
   date: "11/25"
