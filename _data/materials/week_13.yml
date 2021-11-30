@@ -7,8 +7,8 @@
   password:
   mirror:
   resources:
-      - name:
-        url:
+      - name: Discussion 13A
+        url: https://forms.gle/iUHLbKrUErgZeaxG8
 - type: lec
   date: "11/25"
   week: 13
