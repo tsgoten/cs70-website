@@ -1,14 +1,14 @@
 - type: lec
   date: "11/23"
   week: 13
-  title: "Continuous Probabiliy"
+  title: "Continuous Probability"
   reading_text: [21]
   webcast: https://youtu.be/7YBy43wqsLM
   password:
   mirror:
   resources:
-      - name:
-        url:
+      - name: Discussion 13A Recording
+        url: https://forms.gle/iUHLbKrUErgZeaxG8
 - type: lec
   date: "11/25"
   week: 13
