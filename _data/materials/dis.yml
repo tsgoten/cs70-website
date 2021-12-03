@@ -148,27 +148,4 @@
   posted: true
   solutions: false
   weeks: [14]
-- type: dis
-  num: 15A
-  name: "15a"
-  posted: false
-  solutions: false
-  weeks: [15]
-- type: dis
-  num: 15B
-  name: "15b"
-  posted: false
-  solutions: false
-  weeks: [15]
-- type: dis
-  num: 16A
-  name: "16a"
-  posted: false
-  solutions: false
-  weeks: [16]
-- type: dis
-  num: 16B
-  name: "16b"
-  posted: false
-  solutions: false
-  weeks: [16]
+
