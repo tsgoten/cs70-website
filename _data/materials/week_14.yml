@@ -18,5 +18,7 @@
   password:
   mirror:
   resources:
-      - name:
-        url:
+      - name: Gaussian Table
+        url: assets/lec/Table.pdf
+      - name: Lecture Slides
+        url: assets/lec/lastlecture.pdf
