@@ -3,7 +3,7 @@
   week: 14
   title: "Gaussian Distribution and CLT"
   reading_text: [21]
-  webcast: 
+  webcast: https://youtu.be/AZ-zia3ZnEs
   password:
   mirror:
   resources:
@@ -14,9 +14,11 @@
   week: 14
   title: "Regression and Least Squares"
   reading_text: [20]
-  webcast: 
+  webcast: https://youtu.be/JlMIiJXAGcQ
   password:
   mirror:
   resources:
-      - name:
-        url:
+      - name: Gaussian Table
+        url: assets/lec/Table.pdf
+      - name: Lecture Slides
+        url: assets/lec/lastlecture.pdf
