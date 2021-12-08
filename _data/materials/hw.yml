@@ -80,7 +80,7 @@
   num: 14
   name: "14"
   posted: true
-  solutions: false
+  solutions: true
   weeks: [14]
 - type: hw
   num: 15
