@@ -85,7 +85,7 @@
 - type: hw
   num: 15
   name: "15"
-  posted: false
-  solutions: false
+  posted: true
+  solutions: true
   weeks: [15]
 
