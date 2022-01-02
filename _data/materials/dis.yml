@@ -1,4 +1,16 @@
 - type: dis
+  num: 0A
+  name: "00a"
+  posted: false
+  solutions: false
+  weeks: [0]
+- type: dis
+  num: 0B
+  name: "00b"
+  posted: false
+  solutions: false
+  weeks: [0]
+- type: dis
   num: 1A
   name: "01a"
   posted: false
@@ -148,4 +160,15 @@
   posted: false
   solutions: false
   weeks: [14]
-
+- type: dis
+  num: 15A
+  name: "15a"
+  posted: false
+  solutions: false
+  weeks: [15]
+- type: dis
+  num: 15B
+  name: "15b"
+  posted: false
+  solutions: false
+  weeks: [15]

@@ -1,22 +1,19 @@
 - type: lec
-  date: "11/23"
+  date: "4/19"
   week: 13
-  title: "Continuous Probability"
-  reading_text: [21]
-  webcast: https://youtu.be/7YBy43wqsLM
-  password:
-  mirror:
-  resources:
-      - name: Discussion 13A Recording
-        url: https://forms.gle/iUHLbKrUErgZeaxG8
-- type: lec
-  date: "11/25"
-  week: 13
-  title: "No Lecture: Thanksgiving 🦃"
-  reading_text: []
+  title: TBD
+  reading_text:
   webcast: 
-  password:
-  mirror:
+  password: 
   resources:
-      - name:
-        url:
+  mirror:
+- type: lec
+  date: "4/21"
+  week: 13
+  title: TBD
+  reading_text:
+  webcast: 
+  password: 
+  resources:
+  mirror:
+
