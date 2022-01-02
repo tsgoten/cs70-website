@@ -7,7 +7,7 @@ permalink: /policies/
 
 ## Lectures
 
-Live lecture will take place 11:00am-12:30pm on Tuesdays and Thursdays over Zoom. Lectures will be recorded, and linked on Piazza/Website once lecture is over. It is highly recommended that you watch lecture the day it is released.
+Live lecture will take place 12:30pm - 2:00pm on Tuesdays and Thursdays over TBD. Lectures will be recorded, and linked on Piazza/Website once lecture is over. It is highly recommended that you watch lecture the day it is released.
 
 ## Technology
 
@@ -22,7 +22,7 @@ All homework and vitamins will be submitted through Gradescope, and all homework
 ### Email
 
 Please use Piazza for all technical questions.
-If you have a more specific administrative question or any feedback, please send email to the course administrative account fa21@eecs70.org (read by instructors and head TAs only).
+If you have a more specific administrative question or any feedback, please send email to the course administrative account sp22@eecs70.org (read by instructors and head TAs only).
 
 ### Office Hours
 
@@ -54,8 +54,8 @@ Unfortunately, due to large enrollment, we are unable to accommodate final exam 
 
 ### Exam Dates
 
-- Midterm Date: 10/15/2021 7-9 pm
-- Final Date: 12/15/2021 8-11 am
+- Midterm Date: TBD
+- Final Date: 5/12/22 Thursday 3-6pm
 
 ### Exam Attendance Policy
 
@@ -186,7 +186,7 @@ If the answer is yes, post a screen shot of the relevant part.
 
 ### 7. Complaints / suggestions on course policies
 
-**Please email these concerns to fa21@eecs70.org. Piazza is reserved for content questions and clarifications.
+**Please email these concerns to sp22@eecs70.org. Piazza is reserved for content questions and clarifications.
 **
 
 ### 8. Post all your
