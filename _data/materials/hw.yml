@@ -1,4 +1,10 @@
 - type: hw
+  num: 0
+  name: "00"
+  posted: false
+  solutions: false
+  weeks: [0]
+- type: hw
   num: 1
   name: "01"
   posted: false

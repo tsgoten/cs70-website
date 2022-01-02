@@ -1,24 +1,18 @@
 - type: lec
-  date: "8/24"
+  date: "1/18"
   week: 0
-  title: No Lecture
+  title: TBD
   reading_text:
   webcast: 
   password: 
   resources:
-      - name: 
-        url:
   mirror:
 - type: lec
-  date: "8/26"
+  date: "1/20"
   week: 0
-  title: Introduction, Propositional Logic, Proofs
-  reading_text: ["0", "1", "2"]
+  title: TBD
+  reading_text:
   webcast: 
   password: 
   resources:
-      - name: lecture slides 
-        url: assets/lec/lec-1-handout.pdf
-      - name: 6 page slides 
-        url: assets/lec/lec-1-6up.pdf
   mirror:
