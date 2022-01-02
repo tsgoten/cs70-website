@@ -1,18 +1,19 @@
 - type: lec
-  date: "11/9"
+  date: "4/5"
   week: 11
-  title: "Variance and Poisson Distribution"
-  reading_text: [16, 19]
-  webcast: https://youtu.be/fV9fOKGkakM
-  password:
-  mirror:
-  resources:
-- type: lec
-  date: "11/11"
-  week: 11
-  title: "No Lecture - Veteran's Day!"
-  reading_text: []
+  title: TBD
+  reading_text:
   webcast: 
-  password:
-  mirror:
+  password: 
   resources:
+  mirror:
+- type: lec
+  date: "4/7"
+  week: 11
+  title: TBD
+  reading_text:
+  webcast: 
+  password: 
+  resources:
+  mirror:
+

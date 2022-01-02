@@ -75,7 +75,7 @@
     <div class="wrapper bg-white">
         <nav class="navbar navbar-light navbar-expand-md align-items-center">
             <div class="container">
-                <a class="navbar-brand brand-berkeley" href="{{ '/' | relative_url }}"> {{ site.title }} </a>
+                <a class="navbar-brand brand-berkeley" href="{{ '/' | relative_url }}"> <img src="{{site.headerimg | relative_url }}" style="height: 60px;"> </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                   <span class="navbar-toggler-icon"></span>
                 </button>
@@ -131,7 +131,7 @@
         <ul class="nav justify-content-center">
             <li class="nav-item">
                 <a class="nav-link text-secondary" href="/">
-                  EECS 70
+                  {{site.title}}
                 </a>
               </li>
             {% for link in site.data.links %}
