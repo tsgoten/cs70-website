@@ -79,7 +79,7 @@ title: Home
                                         href="/assets/pdf/dis{{material.name}}-sol.pdf"
                                         {% else %} class="text-muted" {% endif %}>solutions</a><br/>
                                 </div>
-                                <br>
+                                <!-- <br> -->
                                 {%if material.walkthrough %}
                                 <div class="badge badge-light my-1 p-3 main-badge">
                                     <a href="{{material.walkthrough}}">Section {{material.num}} walkthrough</a><br/>
@@ -100,13 +100,13 @@ title: Home
                         {% if material.type == "lec" %}
                             <tr>
                                 {% if first_tr %}
-                                <th rowspan="{{ LECTURES_PER_WEEK }}" style="text-align: center" id="week{{ week }}">
+                                <th rowspan="{{ LECTURES_PER_WEEK }}" style="text-align: center; width: 20px;" id="week{{ week }}">
                                     {{ week }}</br>
                                     {{ row_week }}
                                 </th>
                                 {% endif %}
-                                <td>
-                                    {% cycle "Tu", "Th" %} <br/>
+                                <td style="width: 20px;">
+                                    {% cycle "Tue", "Thu" %} <br/>
                                     {{ material.date }}
                                 </td>
                                 <td class="table-td-sm">
@@ -130,7 +130,7 @@ title: Home
                                         {% if material.resources %}
                                         {% for resource in material.resources %}
                                         <span class="badge badge-light main-badge">
-                                            <a href="{{ resource.url }}">{{ resource.name }}</a>
+                                            <a href="{{ resource.url }}">{{resource.name}}</a>
                                         </span><br>
                                         <div style="height:0.4rem"></div>
                                         {% endfor %}

@@ -295,10 +295,10 @@ blockquote *:last-child {
 }
 
 .main-badge {
-    font-size: 1rem;
+    font-size: 0.9rem;
     background-color: hsl(0, 0%, 95%);
     font-weight: normal;
-    line-height: 1.5;
+    line-height: 1.25;
 }
 
 .main-badge-block:after {

@@ -1,8 +1,8 @@
 - type: lec
   date: "2/15"
   week: 4
-  title: TBD
-  reading_text:
+  title: RSA, Polynomials
+  reading_text: [6, 7]
   webcast: 
   password: 
   resources:
@@ -10,8 +10,8 @@
 - type: lec
   date: "2/17"
   week: 4
-  title: TBD
-  reading_text:
+  title: Polynomials, Secret Sharing
+  reading_text: [7, 8]
   webcast: 
   password: 
   resources:

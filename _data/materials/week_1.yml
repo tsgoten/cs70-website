@@ -1,8 +1,8 @@
 - type: lec
   date: "1/25"
   week: 1
-  title: TBD
-  reading_text:
+  title: Induction
+  reading_text: [3]
   webcast: 
   password: 
   resources:
@@ -10,8 +10,8 @@
 - type: lec
   date: "1/27"
   week: 1
-  title: TBD
-  reading_text:
+  title: Stable Matching
+  reading_text: [4]
   webcast: 
   password: 
   resources:

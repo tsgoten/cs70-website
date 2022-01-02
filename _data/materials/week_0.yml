@@ -1,8 +1,8 @@
 - type: lec
   date: "1/18"
   week: 0
-  title: TBD
-  reading_text:
+  title: Introduction, Propositional Logic
+  reading_text: [0, 1]
   webcast: 
   password: 
   resources:
@@ -10,8 +10,8 @@
 - type: lec
   date: "1/20"
   week: 0
-  title: TBD
-  reading_text:
+  title: Proofs, Induction
+  reading_text: [2, 3]
   webcast: 
   password: 
   resources:

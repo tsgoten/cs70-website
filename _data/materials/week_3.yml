@@ -1,8 +1,8 @@
 - type: lec
   date: "2/8"
   week: 3
-  title: TBD
-  reading_text:
+  title: Modular Arithmetic
+  reading_text: [6]
   webcast: 
   password: 
   resources:
@@ -10,8 +10,8 @@
 - type: lec
   date: "2/10"
   week: 3
-  title: TBD
-  reading_text:
+  title: Euclid, FLT, CRT
+  reading_text: [6, 7]
   webcast: 
   password: 
   resources:

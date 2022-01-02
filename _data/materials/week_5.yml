@@ -1,8 +1,8 @@
 - type: lec
   date: "2/22"
   week: 5
-  title: TBD
-  reading_text:
+  title: Error Correcting Codes
+  reading_text: [9]
   webcast: 
   password: 
   resources:
@@ -10,8 +10,8 @@
 - type: lec
   date: "2/24"
   week: 5
-  title: TBD
-  reading_text:
+  title: Counting
+  reading_text: [10]
   webcast: 
   password: 
   resources:

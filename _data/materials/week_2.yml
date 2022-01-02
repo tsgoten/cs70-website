@@ -1,8 +1,8 @@
 - type: lec
   date: "2/1"
   week: 2
-  title: TBD
-  reading_text:
+  title: Graphs
+  reading_text: [5]
   webcast: 
   password: 
   resources:
@@ -10,8 +10,8 @@
 - type: lec
   date: "2/3"
   week: 2
-  title: TBD
-  reading_text:
+  title: Graphs
+  reading_text: [5]
   webcast: 
   password: 
   resources:
