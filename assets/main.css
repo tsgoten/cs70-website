@@ -79,7 +79,9 @@ h4 {
 }
 
 .navbar {
-    padding: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 10px;
     margin-bottom: 0.5rem;
 }
 
