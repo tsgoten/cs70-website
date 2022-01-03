@@ -28,7 +28,7 @@
 	--dark: #343a40;
 	--breakpoint-xs: 0;
 	--breakpoint-sm: 576px;
-	--breakpoint-md: 768px;
+	--breakpoint-md: 850px;
 	--breakpoint-lg: 992px;
 	--breakpoint-xl: 1200px;
 	--font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -54,8 +54,8 @@ body {
 	margin: 0;
 	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 	font-size: 0.95rem;
-	font-weight: 400;
-	line-height: 1.25;
+	font-weight: 500;
+	line-height: 1.125;
 	color: #212529;
 	text-align: left;
 	background-color: #fff
@@ -517,27 +517,27 @@ pre code {
 	}
 }
 
-@media (min-width:768px) {
+@media (min-width:850px) {
 	.container {
-		max-width: 750px
+		max-width: 1080px
 	}
 }
 
 @media (min-width:992px) {
 	.container {
-		max-width: 980px
+		max-width: 1080px
 	}
 }
 
 @media (max-width:980px) {
 	.container {
-		max-width: 980px
+		max-width: 1080px
 	}
 }
 
 @media (min-width:1300px) {
 	.container {
-		max-width: 980px
+		max-width: 1080px
 	}
 }
 
@@ -993,7 +993,7 @@ pre code {
 	}
 }
 
-@media (min-width:768px) {
+@media (min-width:850px) {
 	.col-md {
 		-ms-flex-preferred-size: 0;
 		flex-basis: 0;
@@ -1869,7 +1869,7 @@ pre code {
 	}
 }
 
-@media (max-width:767.98px) {
+@media (max-width:849.98px) {
 	.table-responsive-md {
 		display: block;
 		width: 100%;
@@ -3095,7 +3095,7 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
 	}
 }
 
-@media (min-width:768px) {
+@media (min-width:850px) {
 	.dropdown-menu-md-right {
 		right: 0;
 		left: auto
@@ -3128,7 +3128,7 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
 	}
 }
 
-@media (min-width:768px) {
+@media (min-width:850px) {
 	.dropdown-menu-md-left {
 		right: auto;
 		left: 0
@@ -4244,14 +4244,12 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
 	}
 }
 
-@media (max-width:767.98px) {
+@media (max-width:849.98px) {
 	.navbar-expand-md>.container, .navbar-expand-md>.container-fluid {
-		padding-right: 0;
-		padding-left: 0
 	}
 }
 
-@media (min-width:768px) {
+@media (min-width:850px) {
 	.navbar-expand-md {
 		-ms-flex-flow: row nowrap;
 		flex-flow: row nowrap;
@@ -6576,7 +6574,7 @@ a.bg-dark:focus, a.bg-dark:hover, button.bg-dark:focus, button.bg-dark:hover {
 	}
 }
 
-@media (min-width:768px) {
+@media (min-width:850px) {
 	.d-md-none {
 		display: none !important
 	}
@@ -7117,7 +7115,7 @@ a.bg-dark:focus, a.bg-dark:hover, button.bg-dark:focus, button.bg-dark:hover {
 	}
 }
 
-@media (min-width:768px) {
+@media (min-width:850px) {
 	.flex-md-row {
 		-ms-flex-direction: row !important;
 		flex-direction: row !important
@@ -7659,7 +7657,7 @@ a.bg-dark:focus, a.bg-dark:hover, button.bg-dark:focus, button.bg-dark:hover {
 	}
 }
 
-@media (min-width:768px) {
+@media (min-width:850px) {
 	.float-md-left {
 		float: left !important
 	}
@@ -8577,7 +8575,7 @@ a.bg-dark:focus, a.bg-dark:hover, button.bg-dark:focus, button.bg-dark:hover {
 	}
 }
 
-@media (min-width:768px) {
+@media (min-width:850px) {
 	.m-md-0 {
 		margin: 0 !important
 	}
@@ -9711,7 +9709,7 @@ a.bg-dark:focus, a.bg-dark:hover, button.bg-dark:focus, button.bg-dark:hover {
 	}
 }
 
-@media (min-width:768px) {
+@media (min-width:850px) {
 	.text-md-left {
 		text-align: left !important
 	}
