@@ -89,6 +89,12 @@
   solutions: false
   weeks: [7]
 - type: dis
+  num: 7B
+  name: "07b"
+  posted: false
+  solutions: false
+  weeks: [7]
+- type: dis
   num: 8A
   name: "08a"
   posted: false
@@ -131,6 +137,12 @@
   solutions: false
   weeks: [11]
 - type: dis
+  num: 11B
+  name: "11b"
+  posted: false
+  solutions: false
+  weeks: [11]
+- type: dis
   num: 12A
   name: "12a"
   posted: false
@@ -145,6 +157,12 @@
 - type: dis
   num: 13A
   name: "13a"
+  posted: false
+  solutions: false
+  weeks: [13]
+- type: dis
+  num: 13B
+  name: "13b"
   posted: false
   solutions: false
   weeks: [13]

@@ -34,7 +34,7 @@ collections:
   - staff
   - discussions
 
-num_weeks: 15
+num_weeks: 16
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

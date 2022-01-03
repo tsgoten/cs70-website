@@ -1,7 +1,7 @@
 - type: lec
-  date: "12/14"
+  date: "5/10"
   week: 16
-  title: "No Lecture: Final on 12/15"
+  title: "Finals Week"
   reading_text: []
   webcast: 
   password:
@@ -9,10 +9,11 @@
   resources:
       - name:
         url:
+
 - type: lec
-  date: "12/16"
+  date: "5/12"
   week: 16
-  title: "No Lecture: Final on 12/15"
+  title: "Final Exam (3:00-6:00PM)"
   reading_text: []
   webcast: 
   password:
@@ -20,3 +21,4 @@
   resources:
       - name:
         url:
+

@@ -18,15 +18,15 @@ body {
 }
 
 h2 {
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
 
 h3 {
-    font-size: 1.25rem;
+    font-size: 1.5rem;
 }
 
 h4 {
-    font-size: 1.15rem;
+    font-size: 1.25rem;
 }
 
 /*
@@ -295,10 +295,10 @@ blockquote *:last-child {
 }
 
 .main-badge {
-    font-size: 0.9rem;
+    font-size: 1rem;
     background-color: hsl(0, 0%, 95%);
     font-weight: normal;
-    line-height: 1.25;
+    line-height: 1.5;
 }
 
 .main-badge-block:after {
@@ -310,16 +310,8 @@ blockquote *:last-child {
     margin: 0;
 }
 
-#dis-worksheet {
-    display: flex;
-    align-items: center;
-}
-
-.instructors {
-    display: flex;
-}
-
 /* nav[data-toggle=toc] .nav-link+ul {
     display: block !important;
     margin-bottom: 0 !important;
 } */
+

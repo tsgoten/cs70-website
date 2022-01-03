@@ -7,13 +7,13 @@ permalink: /policies/
 
 ## Lectures
 
-Live lecture will take place 12:30pm - 2:00pm on Tuesdays and Thursdays over TBD. Lectures will be recorded, and linked on Piazza/Website once lecture is over. It is highly recommended that you watch lecture the day it is released.
+Live lecture will take place 12:30pm - 2:00pm on Tuesdays and Thursdays over TBD. Lectures will be recorded and linked on Piazza/Website once lecture is over. It is highly recommended that you watch lecture the day it is released.
 
 ## Technology
 
 ### Piazza
 
-We will use Piazza as the 'one-stop shop' throughout the semester: for a Q&A forum and for official announcements. Enrollment in Piazza is mandatory. If you have questions about anything related to the course, please post them on Piazza rather than emailing the instructors or TAs. Please do not post anything resembling a solution to a homework problem before it's due. See the Piazza Etiquette section for more on using Piazza. To join the class on Piazza, click this.
+We will use Piazza as the 'one-stop shop' throughout the semester: for a Q&A forum and official announcements. Enrollment in Piazza is mandatory. If you have questions about anything related to the course, please post them on Piazza rather than emailing the instructors or TAs. Please do not post anything resembling a solution to a homework problem before it's due. See the Piazza Etiquette section for more on using Piazza. To join the class on Piazza, click this.
 
 ### Gradescope
 
@@ -22,7 +22,7 @@ All homework and vitamins will be submitted through Gradescope, and all homework
 ### Email
 
 Please use Piazza for all technical questions.
-If you have a more specific administrative question or any feedback, please send email to the course administrative account sp22@eecs70.org (read by instructors and head TAs only).
+If you have a more specific administrative question or any feedback, please send an email to the course administrative account [sp22@eecs70.org](mailto:sp22@eecs70.org). This email account is only managed by the instructors and head TAs.
 
 ### Office Hours
 
@@ -35,20 +35,20 @@ OHs will be hybrid or remote, please see the calendar for details.
 See the Calendar tab for OH time and location.
 You will still submit a ticket online at [oh.eecs70.org](https://oh.eecs70.org) to join the OH queue.
 In the ticket please specify the room you are currently in.
-Once it is your turn a Course Staff Member will call your name to help you with your ticket.
+Once it is your turn a course staff member will call your name to help you with your ticket.
 
 #### Party
 
 At any time of any day, you can create a group for a question you are working on. Specify the assignment and question you’re working on and select “online” for location. Enter your own video call link - other students can join this group to work together on the same problem. You should look to see if someone else has already started a group for the problem you are working on, and join that group if so.
 
 #### Queue
-At the following times, course staff will be monitoring the online queue - TBA. Anyone in a “Party” group may hit “Ask for Help (as a group)” to submit their group to the queue. A course staff member will join the video call listed on the group when they help you. Alternatively, you can submit an individual ticket to the queue. Follow the same protocol as party group creation (question, location, zoom link).
+At the following times, someone on course staff will be monitoring the online queue - TBA. Anyone in a “Party” group may hit “Ask for Help (as a group)” to submit their group to the queue. A course staff member will join the video call listed on the group when they help you. Alternatively, you can submit an individual ticket to the queue. Follow the same protocol as party group creation (question, location, zoom link).
 
 ## Exams
 
 We will have one midterm and one final, dates listed below.
 We will offer both a proctored online and in-person option for the exam.
-In HW0 you will be asked to choose on of the two options to take your exam (either online or in-person). **You will NOT be allowed to change your choice.**
+In HW0 you will be asked to choose one of the two options to take your exam (either online or in-person). **You will NOT be allowed to change your choice.**
 
 Unfortunately, due to large enrollment, we are unable to accommodate final exam conflicts with other classes; we strongly discourage enrollment in another class with conflicting lectures and/or final exam; if you choose to enroll in such a class you will have to make arrangements for an alternate Final with the other class.
 
@@ -59,9 +59,9 @@ Unfortunately, due to large enrollment, we are unable to accommodate final exam 
 
 ### Exam Attendance Policy
 
-You must attend all exams in order to pass the class. We will consider granting an incomplete given extenuating circumstances that are communicated to course staff. Simply not attending the final exam does not ensure an automatic failure or the granting of an incomplete.
+You must attend all exams to pass the class. We will consider granting an incomplete given extenuating circumstances that are communicated to course staff. Simply not attending the final exam does not ensure an automatic failure or the granting of an incomplete.
 
-### Materials
+## Materials
 
 All materials will be on [the front page](https://www.eecs70.org/).
 
@@ -77,7 +77,7 @@ Release Schedule: Discussion worksheets are published the night before. The solu
 
 Discussions will be offered online and in-person. You will not be able to switch sections.
 
-We will be assigning sections this semester (form to sign up is on Piazza), and attendance will be taken as part of your grade (through a completely objective criteria). You will receive 1 attendance point for every discussion, and will need at least 13 points in order to receive full credit for discussion attendance. You are welcome to attend other discussion sections, but your attendance will only be counted for the section you are actually assigned. The discussion sections are designed not to cover new material but to consolidate the material covered in lectures and in the notes. All sections are equivalent: they all cover the same material.
+We will be assigning sections this semester. The form to sign up will be on Piazza and attendance will be taken as part of your grade through a completely objective criteria. You will receive 1 attendance point for every discussion and will need at least 13 points to receive full credit for discussion attendance. You are welcome to attend other discussion sections, but your attendance will only be counted for the section you are assigned to. The discussion sections are designed not to cover new material but to consolidate the material covered in lectures and in the notes. All sections are equivalent: they all cover the same material.
 
 Distinguished Alum Lili says, “When I took the course, I tried my best to attend every discussion and ask questions whenever I was confused!"
 
@@ -89,7 +89,7 @@ There will be weekly required vitamins designed to consolidate your understandin
 
 #### Vitamin Submission
 
-Vitamins are due on Friday night at 10:00 PM. You need to submit your answers directly on Gradescope. If you have questions on how to do this, please make a private post on Piazza.
+Vitamins are due on Friday at 10:00 PM. You need to submit your answers directly on Gradescope. If you have questions on how to do this, please make a private post on Piazza.
 
 ### Participation
 
@@ -99,7 +99,7 @@ We encourage participation. Participation includes watching lecture live, contri
 
 Release Schedule: Homework for the coming week is released on Saturday. Homework is due on Gradescope the following Friday at 10:00 p.m. (grace period until Friday midnight); the solutions for that homework will be released the following Saturday.
 
-There will be weekly required homeworks designed to consolidate your understanding of the course material. We strongly recommend starting these early since there will be no office hours support on weekends. Maximum credit for each homework will be given for any score of 73% or more. Your lowest three homework scores will be dropped, but this drop should be reserved for emergencies. No additional allowances will be made for late or missed homeworks: please do not contact us about missed homeworks or late submissions.
+There will be weekly required homeworks designed to consolidate your understanding of the course material. We strongly recommend starting these early since there will be no office hours support on weekends. Homework scores will be out of 73% and no extra credit will be granted for getting over 73%. Your lowest three homework scores will be dropped, but these drops should be reserved for emergencies. No additional allowances will be made for late or missed homeworks: please do not contact us about missed homeworks or late submissions.
 
 Due to budget constraints, we didn’t receive the same reader budget as we have in the past; so, we may sample homework problems to grade each week.
 
@@ -109,7 +109,7 @@ Richard recommends that you start the homeworks as early as possible so you get 
 
 We take academic misconduct very seriously.
 **Using any kind of homework or exam solutions (for example, from previous semesters) on a currently active assignment is strictly prohibited and is academic misconduct.**
-Consequences of academic misconduct include: negative points for the corresponding assignment, a failing grade in the class, and/or a referral to the Office of Student Conduct.
+Consequences of academic misconduct include negative points for the corresponding assignment, a failing grade in the class, and/or a referral to the Office of Student Conduct.
 
 ## Collaboration
 
@@ -117,7 +117,7 @@ You are welcome to work on homework problems in study groups of two to five peop
 
 We believe that most students can distinguish between helping other students and cheating. You may discuss approaches but your solution must be written by you and you only. You should acknowledge everyone whom you have worked with or who has given you any significant ideas about the homework.
 
-**Warning:** Your attention is drawn to the [Department's Policy on Academic Dishonesty](https://eecs.berkeley.edu/resources/students/academic-dishonesty)
+**Warning:** Your attention is drawn to the [Department's Policy on Academic Dishonesty](https://eecs.berkeley.edu/resources/students/academic-dishonesty).
 In particular, you should be aware that copying or sharing solutions, in whole or in part, from other students in the class (or any other source without acknowledgment) constitutes cheating. Any student found to be cheating risks automatically failing the class and being referred to the Office of Student Conduct.
 
 ## Grading
@@ -131,10 +131,10 @@ The score upon which the grade will be assigned will be computed as follows:
 - Midterm: 30%
 - Final: 40%
 
-There will also be a “no-homework” option (primarily test based), with a score computed without homework as follows:
+There will also be a “no-homework” option with a score computed without homework as follows:
 
 - Discussion Attendance: 6.25%
-- Vitamins: 6.25%
+- Vitamins: 6.25% (lowest three vitamins dropped)
 - Midterm: 37.5%
 - Final: 50%
 
@@ -178,11 +178,11 @@ Please do not use Piazza as a medium to ask instructors to check your homework i
 
 Feel free to ask questions of clarification, or ask questions about the course content to achieve a deeper understanding, but at a certain point, you must apply your knowledge, give it your best shot, and submit your answers with confidence.
 
-### 6. Post a screen shot of any resource referenced
+### 6. Post a screenshot of any resource referenced
 
 Your question should be self-contained. The TAs (and other responders) should not have to scan through PDFs to even figure out what the question is. Ask yourself: am I referring to some lecture slide/lecture note/HW solution/discussion solution/past exam?
 
-If the answer is yes, post a screen shot of the relevant part.
+If the answer is yes, post a screenshot of the relevant part.
 
 ### 7. Complaints / suggestions on course policies
 
@@ -226,11 +226,11 @@ In a conceptual class such as this, it is particularly important to maintain a s
 
 ### Take the homeworks seriously
 
-The homeworks are explicitly designed to help you to learn the material as you go along. Although the numerical weight of the homeworks is not huge, we work hard to make them instructive and interesting. Do read the sample solutions, even for the problems on which you received full points. You may well learn a different way of looking at the problem, and you may also benefit from emulating the style of the solutions. (In science, people learn a lot from emulating the approach of more experienced scientists.) Even for those in the test only option, we highly encourage you to attempt the homeworks and review the solutions.
+The homeworks are explicitly designed to help you to learn the material as you go along. Although the numerical weight of the homeworks is not huge, we work hard to make them instructive and interesting. Do read the sample solutions, even for the problems on which you received full points. You may well learn a different way of looking at the problem, and you may also benefit from emulating the style of the solutions. (In science, people learn a lot from emulating the approach of more experienced scientists.) Even for those in the "no-homework" option, we highly encourage you to attempt the homeworks and review the solutions.
 
 ### Start homeworks early
 
-Our best advice is to read through the homework problems as soon as they are available, and let them percolate in your brain. Think through possible approaches while you are waiting in line, or stuck in an elevator. Sleeping on a problem, or taking a walk has often helped people to come up with a creative approach to it. Definitely do not wait until the night before it is due to start working on the homework.
+Our best advice is to read through the homework problems as soon as they are available and let them percolate in your brain. Think through possible approaches while you are waiting in line, or stuck in an elevator. Sleeping on a problem, or taking a walk has often helped people to come up with a creative approach to it. Definitely do not wait until the night before it is due to start working on the homework.
 
 ### Make use of office hours
 
@@ -242,8 +242,8 @@ Discussion sections are not auxiliary lectures. They are an opportunity for inte
 
 ### Form study groups and/or come to homework parties.
 
-As stated above, you are welcome to form small groups (two to four people) to work together on homeworks and on understanding the class material on a regular basis. In addition to being fun, this can save you a lot of time by generating ideas quickly and preventing you from getting hung up on some point or other. Of course, it is your responsibility to ensure that you contribute actively to the group; passive listening will likely not help you much. And recall the caveat above that you must write up your solutions on your own. Homework parties are an alternative vehicle for working with others in a nice atmosphere, and can be a good place to find a group to work with regularly.
+As stated above, you are welcome to form small groups (two to four people) to work together on homeworks and on understanding the class material on a regular basis. In addition to being fun, this can save you a lot of time by generating ideas quickly and preventing you from getting hung up on some point or other. Of course, it is your responsibility to ensure that you contribute actively to the group; passive listening will likely not help you much. And recall the caveat above that you must write up your solutions on your own. Homework parties are an alternative vehicle for working with others in a nice atmosphere and can be a good place to find a group to work with regularly.
 
 ### Pay attention in lectures
 
-As the semester proceeds, many of you will no doubt feel the urge to 'daydream' during lectures, or to skip them altogether, on the grounds that you can catch up by reading the lecture notes. If you follow this strategy, you should be aware that reading mathematics is NOT the same as reading a novel or a news article: each page of mathematics needs to be read many times before it is fully understood, and needs to be backed up by examples and discussion. Following the material in class should save you several readings; even just watching it go by without fully understanding it makes your later reading easier. And you also get the benefit of student questions, examples etc. Exactly how you handle lectures is up to you. One strategy is to print out the lecture notes in advance, bring them to lecture, and add a few additional notes during class.
+As the semester proceeds, many of you will no doubt feel the urge to 'daydream' during lectures or to skip them altogether, on the grounds that you can catch up by reading the lecture notes. If you follow this strategy, you should be aware that reading mathematics is NOT the same as reading a novel or a news article: each page of mathematics needs to be read many times before it is fully understood, and needs to be backed up by examples and discussion. Following the material in class should save you several readings; even just watching it go by without fully understanding it makes your later reading easier. And you also get the benefit of student questions, examples, etc. Exactly how you handle lectures is up to you. One strategy is to print out the lecture notes in advance, bring them to lecture, and add a few additional notes during class.
