@@ -4112,7 +4112,6 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
 }
 
 .navbar>.container, .navbar>.container-fluid {
-	/* padding-left: 0px; */
 	display: -ms-flexbox;
 	display: flex;
 	-ms-flex-wrap: wrap;
@@ -4247,8 +4246,6 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
 
 @media (max-width:849.98px) {
 	.navbar-expand-md>.container, .navbar-expand-md>.container-fluid {
-		/* padding-right: 0; */
-		/* padding-left: 0 */
 	}
 }
 
