@@ -79,6 +79,7 @@ h4 {
 }
 
 .navbar {
+    padding: 0px;
     margin-bottom: 0.5rem;
 }
 
@@ -298,7 +299,7 @@ blockquote *:last-child {
     font-size: 0.9rem;
     background-color: hsl(0, 0%, 95%);
     font-weight: normal;
-    line-height: 1.25;
+    line-height: 1.125;
 }
 
 .main-badge-block:after {
