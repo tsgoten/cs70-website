@@ -22,6 +22,7 @@ You can build the website locally, if you would like to preview changes before d
     bundle add jekyll
     # you should now be good to go!
     ```
+    b. If you are using Ruby 3.0, run `bundle add webrick` as well
     
 2. Run `bundle exec jekyll serve` to serve the local site on `localhost:4000`. Ctrl-C to stop the server from building.
 
