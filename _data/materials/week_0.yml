@@ -6,10 +6,6 @@
   webcast: 
   password: 
   resources:
-    - name: Fa21
-      url: http://fa21.eecs70.org
-    - name: Sp21
-      url: http://sp21.eecs70.org
   mirror:
 - type: lec
   date: "1/20"
