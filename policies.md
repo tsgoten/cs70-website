@@ -5,23 +5,19 @@ title: Policies
 permalink: /policies/
 ---
 
-## Overview
-TODO
-### Prerequisites
-TODO
 ## Course Format
 
 The primary methods for engaging with the course material are through lectures, discussion sections, homework, and the notes. All are important, and exams will test a mix of the material from these sources.
 
 ### Lectures
 
-Live lecture will take place 12:30pm - 2:00pm on Tuesdays and Thursdays over TBD. Lectures will be recorded and linked on Piazza/Website once lecture is over. It is highly recommended that you watch lecture the day it is released.
+Live lecture will take place 12:30pm - 2:00pm on Tuesdays and Thursdays at Wheeler 150. The first two weeks of the course will be remote, and the lecture will be on Zoom. Lectures will be recorded and linked on Piazza/Website once lecture is over. It is highly recommended that you watch lecture the day it is released.
 
 ### Discussions
 
 Release Schedule: Discussion worksheets are published the night before. The solutions are published after all sections of the day are completed.
 
-Discussions will be offered online and in-person. You will not be able to switch sections.
+Discussions will be offered primarily in-person, with few remote options for exceptional cases. You will not be able to switch sections.
 
 We will be assigning sections this semester. The form to sign up will be on Piazza and attendance will be taken as part of your grade through a completely objective criteria. You will need to attend at least 13 points to receive full credit for discussion attendance. You are welcome to attend other discussion sections, but your attendance will only be counted for the section you are assigned to. The discussion sections are designed not to cover new material but to consolidate the material covered in lectures and in the notes. All sections are equivalent: they all cover the same material.
 
@@ -52,13 +48,12 @@ Once it is your turn a course staff member will call your name to help you with 
 At any time of any day, you can create a group for a question you are working on. Specify the assignment and question you’re working on and select “online” for location. Enter your own video call link - other students can join this group to work together on the same problem. You should look to see if someone else has already started a group for the problem you are working on, and join that group if so.
 
 #### Queue
-At the following times, someone on course staff will be monitoring the online queue - TBA. Anyone in a “Party” group may hit “Ask for Help (as a group)” to submit their group to the queue. A course staff member will join the video call listed on the group when they help you. Alternatively, you can submit an individual ticket to the queue. Follow the same protocol as party group creation (question, location, zoom link).
+
+At the following times, someone on course staff will be monitoring the online queue. Anyone in a “Party” group may hit “Ask for Help (as a group)” to submit their group to the queue. A course staff member will join the video call listed on the group when they help you. Alternatively, you can submit an individual ticket to the queue. Follow the same protocol as party group creation (question, location, zoom link).
 
 ### Participation
 
 We encourage participation. Participation includes watching lecture live, contributing in discussion, asking and answering questions on Piazza, using Party OH, and more. The more you engage with the class, the more fun it is and the better you do.
-
-
 
 ## Technology
 
@@ -77,9 +72,9 @@ If you have a more specific administrative question or any feedback, please send
 
 ## Assignments and Exams
 
-###  Homeworks
+### Homeworks
 
-Release Schedule: Homework for the coming week is released on Saturday. Homework is due on Gradescope the following Friday at 10:00 p.m. (grace period until Friday midnight); the solutions for that homework will be released the following Saturday.
+Release Schedule: Homework for the coming week is released on Sunday. Homework is due on Gradescope the following Saturday at 4:00 p.m. (grace period until Saturday 5:59pm); the solutions for that homework will be released on Sunday.
 
 There will be weekly required homeworks designed to consolidate your understanding of the course material. We strongly recommend starting these early since there will be no office hours support on weekends. Homework scores will be out of 73% and no extra credit will be granted for getting over 73%. Your lowest three homework scores will be dropped, but these drops should be reserved for emergencies. No additional allowances will be made for late or missed homeworks: please do not contact us about missed homeworks or late submissions.
 
@@ -89,7 +84,7 @@ Richard recommends that you start the homeworks as early as possible so you get 
 
 ### Vitamins
 
-Release Schedule: The vitamin for the current week is released on Gradescope on Monday by 10:00 am. The vitamin is due on Gradescope the following Friday at 10:00 pm (grace period until Friday midnight); the solutions for that vitamin will be released on Saturday.
+Release Schedule: The vitamin for the current week is released on Gradescope on Monday by 10:00 am. The vitamin is due on Gradescope the following Saturday at 4:00 pm (grace period until Saturday 5:59pm); the solutions for that vitamin will be released on Sunday.
 
 There will be weekly required vitamins designed to consolidate your understanding of the course material. If you read the notes in advance and attend lecture, they should be quick to complete. As a result, there will be no Piazza support for vitamins. Your final grade will be out of 73%, and your lowest three vitamin scores will be dropped, but this drop should be reserved for emergencies. No additional allowances will be made for late or missed vitamins: please do not contact us about missed vitamins or late submissions.
 
@@ -97,11 +92,11 @@ There will be weekly required vitamins designed to consolidate your understandin
 
 Vitamins are due on Friday at 10:00 PM. You need to submit your answers directly on Gradescope. If you have questions on how to do this, please make a private post on Piazza.
 
-
 ### Exams
 
-We will have one midterm and a final and we will offer both a proctored online and in-person option for the exam.
-In HW0 you will be asked to choose one of the two options to take your exam (either online or in-person). **You will NOT be allowed to change your choice.**
+We will have one midterm and a final and both will be conducted **in-person**. If you are unable to attend the exam in-person, please check Piazza for details on how to proceed.
+
+<!-- In HW0 you will be asked to choose one of the two options to take your exa (either online or in-person). **You will NOT be allowed to change your choice.** -->
 
 Unfortunately, due to large enrollment, we are unable to accommodate final exam conflicts with other classes; we strongly discourage enrollment in another class with conflicting lectures and/or final exam; if you choose to enroll in such a class you will have to make arrangements for an alternate final with the other class.
 
