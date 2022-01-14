@@ -1,8 +1,8 @@
 - type: lec
   date: "4/5"
   week: 11
-  title: TBD
-  reading_text:
+  title: Concentration Inequalities and LLN
+  reading_text: [17]
   webcast: 
   password: 
   resources:
@@ -10,8 +10,8 @@
 - type: lec
   date: "4/7"
   week: 11
-  title: TBD
-  reading_text:
+  title: Applications. Memoryless Properties
+  reading_text: [18, 19]
   webcast: 
   password: 
   resources:

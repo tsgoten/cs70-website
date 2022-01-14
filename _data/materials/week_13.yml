@@ -1,8 +1,8 @@
 - type: lec
   date: "4/19"
   week: 13
-  title: TBD
-  reading_text:
+  title: Continuous Distributions I
+  reading_text: [20]
   webcast: 
   password: 
   resources:
@@ -10,8 +10,8 @@
 - type: lec
   date: "4/21"
   week: 13
-  title: TBD
-  reading_text:
+  title: Continuous Distributions II
+  reading_text: [20]
   webcast: 
   password: 
   resources:

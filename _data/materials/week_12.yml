@@ -1,8 +1,8 @@
 - type: lec
   date: "4/12"
   week: 12
-  title: TBD
-  reading_text:
+  title: Confidence Intervals, Linear Regression
+  reading_text: [17, 20]
   webcast: 
   password: 
   resources:
@@ -10,8 +10,8 @@
 - type: lec
   date: "4/14"
   week: 12
-  title: TBD
-  reading_text:
+  title: Conditional Expectation
+  reading_text: [20]
   webcast: 
   password: 
   resources:
