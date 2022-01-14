@@ -59,7 +59,7 @@ We encourage participation. Participation includes watching lecture live, contri
 
 ### Piazza
 
-We will use Piazza as the 'one-stop shop' throughout the semester: for a Q&A forum and official announcements. Enrollment in Piazza is mandatory. If you have questions about anything related to the course, please post them on Piazza rather than emailing the professors or TAs. Please do not post anything resembling a solution to a homework problem before it's due. See the Piazza Etiquette section for more on using Piazza. To join the class on Piazza, click this.
+We will use Piazza as the 'one-stop shop' throughout the semester: for a Q&A forum and official announcements. Enrollment in Piazza is mandatory. If you have questions about anything related to the course, please post them on Piazza rather than emailing the professors or TAs. Please do not post anything resembling a solution to a homework problem before it's due. See the [Piazza Etiquette](https://www.eecs70.org/resources/piazza-etiquette/) section for more on using Piazza. To join the class on Piazza, [click this](piazza.com/berkeley/spring2022/cs70).
 
 ### Gradescope
 
