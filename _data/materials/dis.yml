@@ -107,18 +107,6 @@
   solutions: false
   weeks: [8]
 - type: dis
-  num: 9A
-  name: "09a"
-  posted: false
-  solutions: false
-  weeks: [9]
-- type: dis
-  num: 9B
-  name: "09b"
-  posted: false
-  solutions: false
-  weeks: [9]
-- type: dis
   num: 10A
   name: "10a"
   posted: false
@@ -178,15 +166,3 @@
   posted: false
   solutions: false
   weeks: [14]
-- type: dis
-  num: 15A
-  name: "15a"
-  posted: false
-  solutions: false
-  weeks: [15]
-- type: dis
-  num: 15B
-  name: "15b"
-  posted: false
-  solutions: false
-  weeks: [15]
