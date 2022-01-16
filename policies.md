@@ -39,17 +39,15 @@ OHs will be hybrid or remote, please see the calendar for details.
 #### In-Person
 
 See the Calendar tab for OH time and location.
-You will still submit a ticket online at [oh.eecs70.org](https://oh.eecs70.org) to join the OH queue.
+You will submit a ticket online at [oh.eecs70.org](https://oh.eecs70.org) to join the OH queue.
 In the ticket please specify the room you are currently in.
 Once it is your turn a course staff member will call your name to help you with your ticket.
 
-#### Party
+#### Online
 
-At any time of any day, you can create a group for a question you are working on. Specify the assignment and question you’re working on and select “online” for location. Enter your own video call link - other students can join this group to work together on the same problem. You should look to see if someone else has already started a group for the problem you are working on, and join that group if so.
-
-#### Queue
-
-At the following times, someone on course staff will be monitoring the online queue. Anyone in a “Party” group may hit “Ask for Help (as a group)” to submit their group to the queue. A course staff member will join the video call listed on the group when they help you. Alternatively, you can submit an individual ticket to the queue. Follow the same protocol as party group creation (question, location, zoom link).
+At the times listed on the calendar, someone on course staff will be monitoring the online queue. 
+Again, you will submit a ticket online at [oh.eecs70.org](https://oh.eecs70.org) to join the OH queue with your location specified as online. 
+A course staff member will provide a video call link for you to join when it's your turn. In-person course staff will prioritize helping in-person tickets on the queue.
 
 ### Participation
 
