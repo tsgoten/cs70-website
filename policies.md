@@ -90,7 +90,7 @@ There will be weekly required vitamins designed to consolidate your understandin
 
 #### Vitamin Submission
 
-Vitamins are due on Friday at 10:00 PM. You need to submit your answers directly on Gradescope. If you have questions on how to do this, please make a private post on Piazza.
+Vitamins are due on Saturday at 4:00 PM. You need to submit your answers directly on Gradescope. If you have questions on how to do this, please make a private post on Piazza.
 
 ### Exams
 
