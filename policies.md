@@ -19,7 +19,7 @@ Release Schedule: Discussion worksheets are published the night before. The solu
 
 Discussions will be offered primarily in-person, with few remote options for exceptional cases. You will not be able to switch sections.
 
-We will be assigning sections this semester. The form to sign up will be on Piazza and attendance will be taken as part of your grade through a completely objective criteria. You will need to attend at least 13 points to receive full credit for discussion attendance. You are welcome to attend other discussion sections, but your attendance will only be counted for the section you are assigned to. The discussion sections are designed not to cover new material but to consolidate the material covered in lectures and in the notes. All sections are equivalent: they all cover the same material.
+We will be assigning sections this semester. The form to sign up will be on Piazza and attendance will be taken as part of your grade through a completely objective criteria. You will need to attend at least 13 points to receive full credit for discussion attendance. You are welcome to attend other discussion sections, but your attendance will only be counted for the section you are assigned to. The discussion sections are designed not to cover new material but to consolidate the material covered in lectures and in the notes. All sections are equivalent: they all cover the same material. However, if you are attending an online discussion section you must submit a completed discussion worksheet to Gradescope to receive discussion attendance credit.
 
 Distinguished Alum Lili says, “When I took the course, I tried my best to attend every discussion and ask questions whenever I was confused!"
 
