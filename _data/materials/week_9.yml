@@ -1,20 +1,19 @@
 - type: lec
-  date: "10/26"
+  date: "3/22"
   week: 9
-  title: "Bayes' Rule"
-  reading_text: [14]
-  webcast: https://youtu.be/tvEBBQggVlU
-  password:
-  mirror:
+  title: _Spring Recess_
+  reading_text:
+  webcast: 
+  password: 
   resources:
+  mirror:
 - type: lec
-  date: "10/28"
+  date: "3/24"
   week: 9
-  title: "Random Variables"
-  reading_text: [15, 19]
-  webcast: https://youtu.be/063cjJCOcjU
-  password:
-  mirror:
+  title: _Spring Recess_
+  reading_text:
+  webcast: 
+  password: 
   resources:
-      - name: Conditional Independence
-        url: https://youtu.be/ecZsXOhs5Qk
+  mirror:
+

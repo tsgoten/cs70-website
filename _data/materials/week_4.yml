@@ -1,31 +1,18 @@
 - type: lec
-  date: "9/21"
+  date: "2/15"
   week: 4
-  title: "Euclid, FLT, CRT"
+  title: RSA, Polynomials
   reading_text: [6, 7]
   webcast: 
-  password:
-  mirror:
+  password: 
   resources:
-      - name: lecture slides 
-        url: assets/lec/lec-8-handout.pdf
-      - name: 6 page slides 
-        url: assets/lec/lec-8-6up.pdf
-      - name: all slides (step by step)
-        url: assets/lec/lec-8.pdf
+  mirror:
 - type: lec
-  date: "9/23"
+  date: "2/17"
   week: 4
-  title: "RSA, Polynomials"
+  title: Polynomials, Secret Sharing
   reading_text: [7, 8]
   webcast: 
-  password:
-  mirror:
+  password: 
   resources:
-      - name: lecture slides 
-        url: assets/lec/lec-9-handout.pdf
-      - name: 6 page slides 
-        url: assets/lec/lec-9-6up.pdf
-      - name: all slides (step by step)
-        url: assets/lec/lec-9.pdf
-
+  mirror:

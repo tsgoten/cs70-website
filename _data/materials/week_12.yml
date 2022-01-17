@@ -1,20 +1,19 @@
 - type: lec
-  date: "11/16"
+  date: "4/12"
   week: 12
-  title: "Joint and Conditional PMFs"
-  reading_text: [15, 17]
-  webcast: https://youtu.be/X5iBKkDDU-E
-  password:
-  mirror:
+  title: Confidence Intervals, Linear Regression
+  reading_text: [17, 20]
+  webcast: 
+  password: 
   resources:
+  mirror:
 - type: lec
-  date: "11/18"
+  date: "4/14"
   week: 12
-  title: "Concentration Inequalities"
-  reading_text: [17]
-  webcast: https://youtu.be/6Q7uMdMVL9k
-  password:
-  mirror:
+  title: Conditional Expectation
+  reading_text: [20]
+  webcast: 
+  password: 
   resources:
-      - name: Pollster Problem
-        url: https://youtu.be/trUpFjXUvSo
+  mirror:
+

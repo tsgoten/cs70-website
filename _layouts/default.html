@@ -19,6 +19,8 @@
 
     <link rel="shortcut icon" type="image/png" href=" {{ '/favicon.ico' | relative_url }}"/>
 
+    <meta name="google-site-verification" content="3tt6Hh5OrhULlYDR5_LmfXBQsKnGUqyFViWNU1V1NOg" />
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137968408-2"></script>
     <script>
@@ -44,7 +46,8 @@
     <script src="{{ '/assets/fullcalendar-list.min.js' | relative_url }}"></script>
 
     {% if page.latex %}
-
+    <script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
     <link rel="stylesheet" href="{{ '/assets/katex.min.css' | relative_url }}" integrity="sha384-BdGj8xC2eZkQaxoQ8nSLefg4AV4/AwB3Fj+8SUSo7pnKP6Eoy18liIKTPn9oBYNG" crossorigin="anonymous">
 
     <script src="{{ '/assets/katex.min.js' | relative_url }}" integrity="sha384-JiKN5O8x9Hhs/UE5cT5AAJqieYlOZbGT3CHws/y97o3ty4R7/O5poG9F3JoiOYw1" crossorigin="anonymous"></script>
@@ -75,7 +78,7 @@
     <div class="wrapper bg-white">
         <nav class="navbar navbar-light navbar-expand-md align-items-center">
             <div class="container">
-                <a class="navbar-brand brand-berkeley" href="{{ '/' | relative_url }}"> {{ site.title }} </a>
+                <a class="navbar-brand brand-berkeley" href="{{ '/' | relative_url }}"> <img src="{{site.headerimg | relative_url }}" style="height: 90px;"> </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                   <span class="navbar-toggler-icon"></span>
                 </button>
@@ -131,7 +134,7 @@
         <ul class="nav justify-content-center">
             <li class="nav-item">
                 <a class="nav-link text-secondary" href="/">
-                  EECS 70
+                  {{site.title}}
                 </a>
               </li>
             {% for link in site.data.links %}

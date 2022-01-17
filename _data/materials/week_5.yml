@@ -1,30 +1,18 @@
 - type: lec
-  date: "9/28"
+  date: "2/22"
   week: 5
-  title: "Polynomials, Secret Sharing"
-  reading_text: [8]
-  webcast: 
-  password:
-  mirror:
-  resources:
-      - name: lecture slides 
-        url: assets/lec/lec-10-handout.pdf
-      - name: 6 page slides 
-        url: assets/lec/lec-10-6up.pdf
-      - name: all slides (step by step)
-        url: assets/lec/lec-10.pdf
-- type: lec
-  date: "9/30"
-  week: 5
-  title: "Error Correcting Codes"
+  title: Error Correcting Codes
   reading_text: [9]
   webcast: 
-  password:
-  mirror:
+  password: 
   resources:
-      - name: lecture slides 
-        url: assets/lec/lec-11-handout.pdf
-      - name: 6 page slides 
-        url: assets/lec/lec-11-6up.pdf
-      - name: all slides (step by step)
-        url: assets/lec/lec-11.pdf
+  mirror:
+- type: lec
+  date: "2/24"
+  week: 5
+  title: Counting
+  reading_text: [10]
+  webcast: 
+  password: 
+  resources:
+  mirror:

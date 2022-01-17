@@ -1,4 +1,16 @@
 - type: dis
+  num: 0A
+  name: "00a"
+  posted: false
+  solutions: false
+  weeks: [0]
+- type: dis
+  num: 0B
+  name: "00b"
+  posted: false
+  solutions: false
+  weeks: [0]
+- type: dis
   num: 1A
   name: "01a"
   posted: true
@@ -77,6 +89,12 @@
   solutions: false
   weeks: [7]
 - type: dis
+  num: 7B
+  name: "07b"
+  posted: false
+  solutions: false
+  weeks: [7]
+- type: dis
   num: 8A
   name: "08a"
   posted: false
@@ -88,18 +106,6 @@
   posted: false
   solutions: false
   weeks: [8]
-- type: dis
-  num: 9A
-  name: "09a"
-  posted: false
-  solutions: false
-  weeks: [9]
-- type: dis
-  num: 9B
-  name: "09b"
-  posted: false
-  solutions: false
-  weeks: [9]
 - type: dis
   num: 10A
   name: "10a"
@@ -115,6 +121,12 @@
 - type: dis
   num: 11A
   name: "11a"
+  posted: false
+  solutions: false
+  weeks: [11]
+- type: dis
+  num: 11B
+  name: "11b"
   posted: false
   solutions: false
   weeks: [11]
@@ -137,6 +149,12 @@
   solutions: false
   weeks: [13]
 - type: dis
+  num: 13B
+  name: "13b"
+  posted: false
+  solutions: false
+  weeks: [13]
+- type: dis
   num: 14A
   name: "14a"
   posted: false
@@ -148,4 +166,3 @@
   posted: false
   solutions: false
   weeks: [14]
-

@@ -1,22 +1,19 @@
 - type: lec
-  date: "12/7"
+  date: "5/3"
   week: 15
-  title: "No Lecture: Final on 12/15"
-  reading_text: []
+  title: "_RRR Week_"
+  reading_text:
   webcast: 
-  password:
-  mirror:
+  password: 
   resources:
-      - name:
-        url:
+  mirror:
 - type: lec
-  date: "12/9"
+  date: "5/5"
   week: 15
-  title: "No Lecture: Final on 12/15"
-  reading_text: []
+  title: "_RRR Week_"
+  reading_text:
   webcast: 
-  password:
-  mirror:
+  password: 
   resources:
-      - name:
-        url:
+  mirror:
+

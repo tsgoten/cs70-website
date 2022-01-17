@@ -1,18 +1,19 @@
 - type: lec
-  date: "11/2"
+  date: "3/29"
   week: 10
-  title: "Distributions, Expectations and Independence"
-  reading_text: [15]
-  webcast: https://youtu.be/oAS1QqIdNB8
-  password:
-  mirror:
+  title: Random Variables II
+  reading_text: [15, 19]
+  webcast: 
+  password: 
   resources:
+  mirror:
 - type: lec
-  date: "11/4"
+  date: "3/31"
   week: 10
-  title: "Variance and Total Expectation"
-  reading_text: [16]
-  webcast: https://youtu.be/7RVJkImRu8k
-  password:
-  mirror:
+  title: Variance and Covariance
+  reading_text: [16, 19]
+  webcast: 
+  password: 
   resources:
+  mirror:
+

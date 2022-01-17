@@ -1,31 +1,18 @@
 - type: lec
-  date: "9/14"
+  date: "2/8"
   week: 3
-  title: "Graphs"
-  reading_text: [5]
-  webcast: 
-  password:
-  mirror:
-  resources:
-      - name: lecture slides 
-        url: assets/lec/lec-6-handout.pdf
-      - name: 6 page slides 
-        url: assets/lec/lec-6-6up.pdf
-      - name: all slides (step by step)
-        url: assets/lec/lec-6.pdf
-- type: lec
-  date: "9/16"
-  week: 3
-  title: "Modular Arithmetic"
+  title: Modular Arithmetic
   reading_text: [6]
   webcast: 
-  password:
-  mirror:
+  password: 
   resources:
-      - name: lecture slides 
-        url: assets/lec/lec-7-handout.pdf
-      - name: 6 page slides 
-        url: assets/lec/lec-7-6up.pdf
-      - name: all slides (step by step)
-        url: assets/lec/lec-7.pdf
-
+  mirror:
+- type: lec
+  date: "2/10"
+  week: 3
+  title: Euclid, FLT, CRT
+  reading_text: [6, 7]
+  webcast: 
+  password: 
+  resources:
+  mirror:

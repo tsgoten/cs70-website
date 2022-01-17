@@ -1,28 +1,18 @@
 - type: lec
-  date: "8/31"
+  date: "1/25"
   week: 1
-  title: "Proofs, Induction"
-  reading_text: [2, 3]
-  webcast: 
-  password:
-  mirror:
-  resources:
-  resources:
-      - name: lecture slides 
-        url: assets/lec/lec-2-handout.pdf
-      - name: 6 page slides 
-        url: assets/lec/lec-2-6up.pdf
-- type: lec
-  date: "9/2"
-  week: 1
-  title: "Induction"
+  title: Induction
   reading_text: [3]
   webcast: 
-  password:
-  mirror:
+  password: 
   resources:
-      - name: lecture slides 
-        url: assets/lec/lec-3-handout.pdf
-      - name: 6 page slides 
-        url: assets/lec/lec-3-6up.pdf
-
+  mirror:
+- type: lec
+  date: "1/27"
+  week: 1
+  title: Stable Matching
+  reading_text: [4]
+  webcast: 
+  password: 
+  resources:
+  mirror:

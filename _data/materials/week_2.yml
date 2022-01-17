@@ -1,31 +1,18 @@
 - type: lec
-  date: "9/7"
+  date: "2/1"
   week: 2
-  title: "Stable Matching"
-  reading_text: [4]
-  webcast: 
-  password:
-  mirror:
-  resources:
-      - name: lecture slides 
-        url: assets/lec/lec-4-handout.pdf
-      - name: 6 page slides 
-        url: assets/lec/lec-4-6up.pdf
-      - name: all slides (step by step)
-        url: assets/lec/lec-4.pdf
-- type: lec
-  date: "9/9"
-  week: 2
-  title: "Graphs"
+  title: Graphs
   reading_text: [5]
   webcast: 
-  password:
-  mirror:
+  password: 
   resources:
-      - name: lecture slides 
-        url: assets/lec/lec-5-handout.pdf
-      - name: 6 page slides 
-        url: assets/lec/lec-5-6up.pdf
-      - name: all slides (step by step)
-        url: assets/lec/lec-5.pdf
-
+  mirror:
+- type: lec
+  date: "2/3"
+  week: 2
+  title: Graphs
+  reading_text: [5]
+  webcast: 
+  password: 
+  resources:
+  mirror:

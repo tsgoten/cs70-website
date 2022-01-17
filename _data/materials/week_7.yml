@@ -1,24 +1,19 @@
 - type: lec
-  date: "10/12"
+  date: "3/8"
   week: 7
-  title: "Countability and Computability"
-  reading_text: [11, 12]
+  title: Probability
+  reading_text: [13]
   webcast: 
-  password:
-  mirror:
+  password: 
   resources:
-      - name: lecture slides 
-        url: assets/lec/lec-14-handout.pdf
-      - name: 6 page slides 
-        url: assets/lec/lec-14-6up.pdf
-      - name: all slides (step by step)
-        url: assets/lec/lec-14.pdf
+  mirror:
 - type: lec
-  date: "10/14"
+  date: "3/10"
   week: 7
-  title: "No Lecture: Midterm on 10/15."
-  reading_text:
+  title: Conditional Probability
+  reading_text: [13, 14]
   webcast: 
-  password:
-  mirror:
+  password: 
   resources:
+  mirror:
+

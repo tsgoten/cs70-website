@@ -79,6 +79,9 @@ h4 {
 }
 
 .navbar {
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 10px;
     margin-bottom: 0.5rem;
 }
 
@@ -298,7 +301,7 @@ blockquote *:last-child {
     font-size: 1rem;
     background-color: hsl(0, 0%, 95%);
     font-weight: normal;
-    line-height: 1.5;
+    line-height: 1.125;
 }
 
 .main-badge-block:after {
@@ -310,16 +313,8 @@ blockquote *:last-child {
     margin: 0;
 }
 
-#dis-worksheet {
-    display: flex;
-    align-items: center;
-}
-
-.instructors {
-    display: flex;
-}
-
 /* nav[data-toggle=toc] .nav-link+ul {
     display: block !important;
     margin-bottom: 0 !important;
 } */
+

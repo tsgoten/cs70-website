@@ -1,22 +1,19 @@
 - type: lec
-  date: "10/19"
+  date: "3/15"
   week: 8
-  title: "Introduction to Discrete Probability"
-  reading_text: [13]
-  webcast: 
-  password:
-  mirror:
-  resources:
-      - name:
-        url:
-- type: lec
-  date: "10/21"
-  week: 8
-  title: "Conditional Probability, Independence, and Combinations of Events"
+  title: Combination of Events
   reading_text: [14]
-  webcast: https://youtu.be/pTSUbRcSUx4
-  password:
-  mirror:
+  webcast: 
+  password: 
   resources:
-      - name:
-        url:
+  mirror:
+- type: lec
+  date: "3/18"
+  week: 8
+  title: Random Variables I
+  reading_text: [15, 19]
+  webcast: 
+  password: 
+  resources:
+  mirror:
+

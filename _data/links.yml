@@ -1,13 +1,5 @@
-- title: Piazza
-  link: https://piazza.com/berkeley/fall2021/cs70
-  external: true
-
-- title: Queue
-  link: https://oh.eecs70.org
-  external: true
-
-- title: Attendance
-  link: https://forms.gle/HPsqppBRJzKYvaks9
+- title: Lecture
+  link: https://berkeley.zoom.us/j/97437942324
   external: true
 
 - title: Discussions
@@ -24,3 +16,16 @@
 
 - title: Staff
   link: /staff/
+
+- title: Attendance
+  link: https://forms.gle/HxvmtQjNS8g6QJnQ7
+  external: true
+
+- title: Piazza
+  link: https://piazza.com/berkeley/spring2022/cs70
+  external: true
+
+- title: Queue
+  link: https://oh.eecs70.org
+  external: true
+

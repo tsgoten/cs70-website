@@ -1,24 +1,19 @@
 - type: lec
-  date: "11/30"
+  date: "4/26"
   week: 14
-  title: "Gaussian Distribution and CLT"
-  reading_text: [21]
-  webcast: https://youtu.be/AZ-zia3ZnEs
-  password:
-  mirror:
+  title: Markov Chains I
+  reading_text: [22]
+  webcast: 
+  password: 
   resources:
-      - name:
-        url:
+  mirror:
 - type: lec
-  date: "12/2"
+  date: "4/28"
   week: 14
-  title: "Regression and Least Squares"
-  reading_text: [20]
-  webcast: https://youtu.be/JlMIiJXAGcQ
-  password:
-  mirror:
+  title: Markov Chains II
+  reading_text: [22]
+  webcast: 
+  password: 
   resources:
-      - name: Gaussian Table
-        url: assets/lec/Table.pdf
-      - name: Lecture Slides
-        url: assets/lec/lastlecture.pdf
+  mirror:
+

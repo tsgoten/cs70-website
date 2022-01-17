@@ -8,16 +8,15 @@ title: Home
 <h2>
     Discrete Mathematics and Probability Theory
 </h2>
-<h5 class="text-muted">
-    EECS 70 at UC Berkeley with Babak Ayazifar and Satish Rao, Fall 2021
-</h5>
-<p>Lecture: Tu/Th 11:00 am - 12:30 pm<br/>
-<a href="https://berkeley.zoom.us/j/97437942324">Lecture Zoom Link</a>
-<div class="instructors">
-        {% include staff-list.html type="Instructor" %}
-</div>
+<h4 class="text-muted">
+    CS 70 at UC Berkeley with Satish Rao and Koushik Sen, Spring 2022
+</h4>
+<p>Lecture: Tu/Th 12:30 pm - 1:59 pm<br/>
+<a href="#week0"><b>Jump to current week</b></a><br/><br/>
 
-<a href="#week8"><b>Jump to current week</b></a>
+HW is released on Sunday and due on Saturday at 4pm. <br/>
+Please join the course Piazza by clicking the link above.
+
 
 <div class="table-responsive py-3">
 <table class="table table-bordered" >
@@ -26,9 +25,10 @@ title: Home
             <th>Week</th>
             <th>Date</th>
             <th>Lecture</th>
+            <th>Resources</th>
             <th>Notes</th>
             <th>Discussion</th>
-            <th>Assignments</th>
+            <th>Homework</th>
         </tr>
     </thead>
     <tbody>
@@ -77,15 +77,15 @@ title: Home
                                 <div class="badge badge-light my-1 p-3 main-badge">
                                     <a {% if material.posted %}
                                         href="/assets/pdf/dis{{material.name}}.pdf"
-                                        {% else %} class="text-muted" {% endif %}>Section {{material.num}}</a>, <br/>
+                                        {% else %} class="text-muted" {% endif %}>Disc {{material.num}}</a>, <br/>
                                     <a {% if material.solutions %}
                                         href="/assets/pdf/dis{{material.name}}-sol.pdf"
                                         {% else %} class="text-muted" {% endif %}>solutions</a><br/>
                                 </div>
-                                <br>
+                                <!-- <br> -->
                                 {%if material.walkthrough %}
                                 <div class="badge badge-light my-1 p-3 main-badge">
-                                    <a href="{{material.walkthrough}}">Section {{material.num}} walkthrough</a><br/>
+                                    <a href="{{material.walkthrough}}">discussion {{material.num}} walkthrough</a><br/>
                                 </div>
                                 {% endif %}
                                 {% endcapture %}
@@ -103,13 +103,13 @@ title: Home
                         {% if material.type == "lec" %}
                             <tr>
                                 {% if first_tr %}
-                                <th rowspan="{{ LECTURES_PER_WEEK }}" style="text-align: center" id="week{{ week }}">
+                                <th rowspan="{{ LECTURES_PER_WEEK }}" style="text-align: center; width: 20px;" id="week{{ week }}">
                                     {{ week }}</br>
                                     {{ row_week }}
                                 </th>
                                 {% endif %}
-                                <td>
-                                    {% cycle "Tu", "Th" %} <br/>
+                                <td style="width: 20px;">
+                                    {% cycle "Tue", "Thu" %} <br/>
                                     {{ material.date }}
                                 </td>
                                 <td class="table-td-sm">
@@ -130,27 +130,29 @@ title: Home
                                             <div style="height:0.5rem"></div>
                                         {% endif %}
 
-                                        {% if material.resources %}
-                                        {% for resource in material.resources %}
-                                        <span class="badge badge-light main-badge">
-                                            <a href="{{ resource.url }}">{{ resource.name }}</a>
-                                        </span><br>
-                                        <div style="height:0.4rem"></div>
-                                        {% endfor %}
-                                    {% endif %}
+
                                     {% endif %}
                                     {% if material.holiday %}
                                         {{ material.holiday }}
                                     {% endif %}
                                 </td>
                                 <td>
+                                    {% if material.resources %}
+                                        {% for resource in material.resources %}
+                                            <span class="badge badge-light main-badge">
+                                                <a href="{{ resource.url }}">{{resource.name}}</a>
+                                            </span>
+                                        {% endfor %}
+                                    {% endif %}
+                                </td>
+                                <td>
                                     {% if material.reading_text %}
-                                        <span class="badge badge-light main-badge">
-                                            {% for r in material.reading_text %}
+                                        {% for r in material.reading_text %}
+                                            <span class="badge badge-light my-1 main-badge">
                                                 {% include reading-link.html reading=r %}
-                                                {% unless forloop.last %},{% endunless %}
-                                            {% endfor %}
-                                        </span>
+                                            </span>
+                                            <!-- {% unless forloop.last %},{% endunless %} -->
+                                        {% endfor %}
                                     {% endif %}
                                     {% if material.reading %}
                                     {% for resource in material.reading %}
