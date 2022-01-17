@@ -1,25 +1,25 @@
 - type: dis
   num: 0A
   name: "00a"
-  posted: false
+  posted: true
   solutions: false
   weeks: [0]
 - type: dis
   num: 0B
   name: "00b"
-  posted: false
+  posted: true
   solutions: false
   weeks: [0]
 - type: dis
   num: 1A
   name: "01a"
-  posted: true
+  posted: false
   solutions: false
   weeks: [1]
 - type: dis
   num: 1B
   name: "01b"
-  posted: true
+  posted: false
   solutions: false
   weeks: [1]
 - type: dis
