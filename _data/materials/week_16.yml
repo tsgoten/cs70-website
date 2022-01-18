@@ -8,7 +8,7 @@
   mirror:
   resources:
       - name: Resources
-        url: resources
+        url: resources/previous-exams
 
 - type: lec
   date: "5/12"
@@ -20,5 +20,5 @@
   mirror:
   resources:
       - name: Resources
-        url: resources
+        url: resources/previous-exams
 
