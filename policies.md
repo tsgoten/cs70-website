@@ -101,7 +101,7 @@ Unfortunately, due to large enrollment, we are unable to accommodate final exam 
 #### Exam Dates
 
 - Midterm Date: TBD
-- Final Date: 5/12/22 Thursday 3-6pm
+- Final Date: 5/12/22 Thursday 3-6 pm
 
 #### Exam Attendance Policy
 
