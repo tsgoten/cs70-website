@@ -2,7 +2,7 @@
   num: 0
   name: "00"
   posted: true
-  solutions: false
+  solutions: true
   weeks: [0]
 - type: hw
   num: 1
