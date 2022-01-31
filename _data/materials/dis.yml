@@ -25,13 +25,13 @@
 - type: dis
   num: 2A
   name: "02a"
-  posted: false
+  posted: true
   solutions: false
   weeks: [2]
 - type: dis
   num: 2B
   name: "02b"
-  posted: false
+  posted: true
   solutions: false
   weeks: [2]
 - type: dis
