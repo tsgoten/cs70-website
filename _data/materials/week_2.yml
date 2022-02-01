@@ -7,9 +7,9 @@
   password: 
   resources:
     - name: full
-      url: assets/pdf/lec-4.pdf
+      url: assets/pdf/lec-5.pdf
     - name: 1pp
-      url: assets/pdf/lec-4-handout.pdf
+      url: assets/pdf/lec-5-handout.pdf
   mirror:
 - type: lec
   date: "2/3"
