@@ -20,7 +20,7 @@
   webcast: 
   password: 
   resources:
-      - name: full
+    - name: full
       url: assets/pdf/lec-6.pdf
     - name: 1pp
       url: assets/pdf/lec-6-handout.pdf
