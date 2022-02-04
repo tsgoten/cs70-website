@@ -26,7 +26,7 @@
   num: 2A
   name: "02a"
   posted: true
-  solutions: false
+  solutions: true
   weeks: [2]
 - type: dis
   num: 2B
