@@ -19,7 +19,7 @@
 - type: hw
   num: 3
   name: "03"
-  posted: false
+  posted: true
   solutions: false
   weeks: [3]
 - type: hw
