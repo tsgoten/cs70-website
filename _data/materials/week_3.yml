@@ -8,6 +8,8 @@
   resources:
     - name: full
       url: assets/pdf/lec-7.pdf
+    - name: 6pp
+      url: assets/pdf/lec-7-6up.pdf
     - name: 1pp
       url: assets/pdf/lec-7-handout.pdf
   mirror:
