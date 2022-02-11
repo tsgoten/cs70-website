@@ -3,22 +3,19 @@
   week: 2
   title: Graphs
   reading_text: [5]
-  webcast: 
-  password: 
+  webcast: https://bcourses.berkeley.edu/courses/1512474/pages/lec5
   resources:
     - name: full
       url: assets/pdf/lec-5.pdf
     - name: 1pp
       url: assets/pdf/lec-5-handout.pdf
-  mirror:
   
 - type: lec
   date: "2/3"
   week: 2
   title: Graphs
   reading_text: [5]
-  webcast: 
-  password: 
+  webcast: https://bcourses.berkeley.edu/courses/1512474/pages/lec6
   resources:
     - name: full
       url: assets/pdf/lec-6.pdf
@@ -26,4 +23,3 @@
       url: assets/pdf/lec-6-handout.pdf
     - name: 6pp
       url: assets/pdf/lec-6-6up.pdf
-  mirror:

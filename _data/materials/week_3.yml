@@ -3,8 +3,7 @@
   week: 3
   title: Modular Arithmetic
   reading_text: [6]
-  webcast: 
-  password: 
+  webcast: https://bcourses.berkeley.edu/courses/1512474/pages/lec7
   resources:
     - name: full
       url: assets/pdf/lec-7.pdf
@@ -12,14 +11,12 @@
       url: assets/pdf/lec-7-6up.pdf
     - name: 1pp
       url: assets/pdf/lec-7-handout.pdf
-  mirror:
 - type: lec
   date: "2/10"
   week: 3
   title: Euclid, FLT, CRT
   reading_text: [6, 7]
-  webcast: 
-  password: 
+  webcast: https://bcourses.berkeley.edu/courses/1512474/pages/lec8
   resources:
     - name: full
       url: assets/pdf/lec-8.pdf
@@ -27,4 +24,3 @@
       url: assets/pdf/lec-8-6up.pdf
     - name: 1pp
       url: assets/pdf/lec-8-handout.pdf
-  mirror:
