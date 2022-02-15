@@ -6,6 +6,12 @@
   webcast: 
   password: 
   resources:
+    - name: full
+      url: assets/pdf/lec-9.pdf
+    - name: 6pp
+      url: assets/pdf/lec-9-6up.pdf
+    - name: 1pp
+      url: assets/pdf/lec-9-handout.pdf
   mirror:
 - type: lec
   date: "2/17"
