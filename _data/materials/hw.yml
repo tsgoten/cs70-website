@@ -31,7 +31,7 @@
 - type: hw
   num: 5
   name: "05"
-  posted: false
+  posted: true
   solutions: false
   weeks: [5]
 - type: hw
