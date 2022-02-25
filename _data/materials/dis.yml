@@ -62,7 +62,7 @@
   num: 5A
   name: "05a"
   posted: true
-  solutions: false
+  solutions: true
   weeks: [5]
 - type: dis
   num: 5B
