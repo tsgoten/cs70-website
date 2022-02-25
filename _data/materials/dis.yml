@@ -67,7 +67,7 @@
 - type: dis
   num: 5B
   name: "05b"
-  posted: false
+  posted: true
   solutions: false
   weeks: [5]
 - type: dis
