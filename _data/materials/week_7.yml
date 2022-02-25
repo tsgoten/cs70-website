@@ -1,8 +1,8 @@
 - type: lec
   date: "3/8"
   week: 7
-  title: Probability
-  reading_text: [13]
+  title: Countability & Computability
+  reading_text: [11, 12]
   webcast: 
   password: 
   resources:
@@ -10,7 +10,7 @@
 - type: lec
   date: "3/10"
   week: 7
-  title: Conditional Probability
+  title: Probability
   reading_text: [13, 14]
   webcast: 
   password: 
