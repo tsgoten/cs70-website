@@ -73,13 +73,7 @@
 - type: dis
   num: 6A
   name: "06a"
-  posted: false
-  solutions: false
-  weeks: [6]
-- type: dis
-  num: 6B
-  name: "06b"
-  posted: false
+  posted: true
   solutions: false
   weeks: [6]
 - type: dis
