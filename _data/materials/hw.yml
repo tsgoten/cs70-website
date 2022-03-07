@@ -37,8 +37,8 @@
 - type: hw
   num: 6
   name: "06"
-  posted: false
-  solutions: false
+  posted: true
+  solutions: true
   weeks: [6]
 - type: hw
   num: 7

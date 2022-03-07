@@ -3,9 +3,15 @@
   week: 6
   title: Inclusion-Exclusion, Counting
   reading_text: [10]
-  webcast: 
+  webcast: https://bcourses.berkeley.edu/courses/1512474/pages/lec13
   password: 
   resources:
+    - name: full
+      url: assets/pdf/lec-13.pdf
+    - name: 6pp
+      url: assets/pdf/lec-13-6up.pdf
+    - name: 1pp
+      url: assets/pdf/lec-13-handout.pdf
   mirror:
 - type: lec
   date: "3/3"
