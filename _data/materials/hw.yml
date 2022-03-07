@@ -43,7 +43,7 @@
 - type: hw
   num: 7
   name: "07"
-  posted: false
+  posted: true
   solutions: false
   weeks: [7]
 - type: hw
