@@ -22,10 +22,10 @@
   password: 
   resources:
     - name: full
-      url: assets/pdf/lec-14.pdf
+      url: assets/pdf/lec-15.pdf
     - name: 6pp
-      url: assets/pdf/lec-14-6up.pdf
+      url: assets/pdf/lec-15-6up.pdf
     - name: 1pp
-      url: assets/pdf/lec-14-handout.pdf
+      url: assets/pdf/lec-15-handout.pdf
   mirror:
 
