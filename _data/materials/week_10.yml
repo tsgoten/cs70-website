@@ -1,7 +1,7 @@
 - type: lec
   date: "3/29"
   week: 10
-  title: Random Variables II
+  title: Random Variables I
   reading_text: [15, 19]
   webcast: 
   password: 
@@ -10,8 +10,8 @@
 - type: lec
   date: "3/31"
   week: 10
-  title: Variance and Covariance
-  reading_text: [16, 19]
+  title: Random Variables II
+  reading_text: [15, 19]
   webcast: 
   password: 
   resources:
