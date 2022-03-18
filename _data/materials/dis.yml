@@ -92,7 +92,7 @@
   num: 8A
   name: "08a"
   posted: true
-  solutions: false
+  solutions: true
   weeks: [8]
 - type: dis
   num: 8B
