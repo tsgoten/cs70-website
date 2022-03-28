@@ -53,15 +53,9 @@
   solutions: true
   weeks: [8]
 - type: hw
-  num: 9
-  name: "09"
-  posted: false
-  solutions: false
-  weeks: [9]
-- type: hw
   num: 10
   name: "10"
-  posted: false
+  posted: true
   solutions: false
   weeks: [10]
 - type: hw
