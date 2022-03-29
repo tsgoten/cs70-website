@@ -1,8 +1,8 @@
 - type: lec
   date: "4/19"
   week: 13
-  title: Continuous Distributions I
-  reading_text: [21]
+  title: Hashing and Applications
+  reading_text: [18]
   webcast: 
   password: 
   resources:
@@ -10,7 +10,7 @@
 - type: lec
   date: "4/21"
   week: 13
-  title: Continuous Distributions II
+  title: Continuous Distributions I
   reading_text: [21]
   webcast: 
   password: 
