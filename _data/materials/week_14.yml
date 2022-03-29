@@ -1,8 +1,8 @@
 - type: lec
   date: "4/26"
   week: 14
-  title: Continuous Distributions II
-  reading_text: [21]
+  title: Markov Chains
+  reading_text: [22]
   webcast: 
   password: 
   resources:
@@ -10,7 +10,7 @@
 - type: lec
   date: "4/28"
   week: 14
-  title: Markov Chains I
+  title: Conclusions
   reading_text: [22]
   webcast: 
   password: 
