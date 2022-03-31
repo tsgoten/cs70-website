@@ -21,5 +21,11 @@
   webcast: 
   password: 
   resources:
+    - name: full
+      url: assets/pdf/lec-19.pdf
+    - name: 6pp
+      url: assets/pdf/lec-19-6up.pdf
+    - name: 1pp
+      url: assets/pdf/lec-19-handout.pdf
   mirror:
 
