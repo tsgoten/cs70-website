@@ -22,7 +22,7 @@ url: "http://eecs70.org" # the base hostname & protocol for your site, e.g. http
 # IF PUBLISHING FOR cs170.org, SET THIS TO ""
 # IF PUBLISHING FOR inst.eecs, SET THIS TO "/~cs170/sem", i.e. "/~cs170/sp19"
 baseurl: ""
-headerimg: "/assets/penguin_and_pigeon.png"
+headerimg: "/assets/70.png"
 
 # Build settings
 markdown: kramdown
