@@ -61,7 +61,7 @@
 - type: hw
   num: 11
   name: "11"
-  posted: false
+  posted: true
   solutions: false
   weeks: [11]
 - type: hw
