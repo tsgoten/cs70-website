@@ -116,7 +116,7 @@
   num: 11A
   name: "11a"
   posted: true
-  solutions: false
+  solutions: true
   weeks: [11]
 - type: dis
   num: 11B
