@@ -127,13 +127,13 @@
 - type: dis
   num: 12A
   name: "12a"
-  posted: false
+  posted: true
   solutions: false
   weeks: [12]
 - type: dis
   num: 12B
   name: "12b"
-  posted: false
+  posted: true
   solutions: false
   weeks: [12]
 - type: dis
