@@ -62,12 +62,12 @@
   num: 11
   name: "11"
   posted: true
-  solutions: false
+  solutions: true
   weeks: [11]
 - type: hw
   num: 12
   name: "12"
-  posted: false
+  posted: true
   solutions: false
   weeks: [12]
 - type: hw
