@@ -4,7 +4,7 @@ pronouns: she/her
 email: janiceguo@
 image: tas/janice-guo.jpg
 type: TA
-office_hours: Tu 4-6p
+office_hours: F 10-12p
 website: 
 bio: 
 ---
