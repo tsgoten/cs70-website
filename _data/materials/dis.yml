@@ -139,13 +139,13 @@
 - type: dis
   num: 13A
   name: "13a"
-  posted: false
+  posted: true
   solutions: false
   weeks: [13]
 - type: dis
   num: 13B
   name: "13b"
-  posted: false
+  posted: true
   solutions: false
   weeks: [13]
 - type: dis
