@@ -68,7 +68,7 @@
   num: 12
   name: "12"
   posted: true
-  solutions: true
+  solutions: false
   weeks: [12]
 - type: hw
   num: 13
