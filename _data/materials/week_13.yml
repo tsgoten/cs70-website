@@ -7,11 +7,11 @@
   password: 
   resources:
     - name: full
-      url: assets/pdf/lec-23.pdf
+      url: assets/pdf/lec-24.pdf
     - name: 6pp
-      url: assets/pdf/lec-23-6up.pdf
+      url: assets/pdf/lec-24-6up.pdf
     - name: 1pp
-      url: assets/pdf/lec-23-handout.pdf
+      url: assets/pdf/lec-24-handout.pdf
   mirror:
 - type: lec
   date: "4/21"
