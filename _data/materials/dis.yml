@@ -140,7 +140,7 @@
   num: 13A
   name: "13a"
   posted: true
-  solutions: false
+  solutions: true
   weeks: [13]
 - type: dis
   num: 13B
