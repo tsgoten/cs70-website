@@ -146,7 +146,7 @@
   num: 13B
   name: "13b"
   posted: true
-  solutions: false
+  solutions: true
   weeks: [13]
 - type: dis
   num: 14A
