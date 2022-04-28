@@ -3,7 +3,7 @@
   week: 8
   title: Conditional Probability, Independence
   reading_text: [13, 14]
-  webcast: 
+  webcast: https://bcourses.berkeley.edu/courses/1512474/pages/lec16
   password: 
   resources:
     - name: full
@@ -18,7 +18,7 @@
   week: 8
   title: Combination of Events
   reading_text: [14]
-  webcast: 
+  webcast: https://bcourses.berkeley.edu/courses/1512474/pages/lec17
   password: 
   resources:
     - name: full

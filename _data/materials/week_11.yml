@@ -3,7 +3,7 @@
   week: 11
   title: Variance and Covariance
   reading_text: [16]
-  webcast: 
+  webcast: https://bcourses.berkeley.edu/courses/1512474/pages/lec20
   password: 
   resources:
     - name: full
@@ -18,7 +18,7 @@
   week: 11
   title: Concentration Inequalities, LLN and Confidence Intervals
   reading_text: [17]
-  webcast: 
+  webcast: https://bcourses.berkeley.edu/courses/1512474/pages/lec21
   password: 
   resources:
     - name: full

@@ -3,7 +3,7 @@
   week: 12
   title: Linear Regression, Conditional Expectation
   reading_text: [20]
-  webcast: 
+  webcast: https://bcourses.berkeley.edu/courses/1512474/pages/lec22
   password: 
   resources:
     - name: full
@@ -18,7 +18,7 @@
   week: 12
   title: Hashing and Applications
   reading_text: [18]
-  webcast: 
+  webcast: https://bcourses.berkeley.edu/courses/1512474/pages/lec23
   password: 
   resources:
     - name: full
