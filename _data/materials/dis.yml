@@ -152,11 +152,11 @@
   num: 14A
   name: "14a"
   posted: true
-  solutions: false
+  solutions: true
   weeks: [14]
 - type: dis
   num: 14B
   name: "14b"
   posted: true
-  solutions: false
+  solutions: true
   weeks: [14]
