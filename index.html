@@ -3,22 +3,18 @@ layout: default
 title: Home
 ---
 
-{% assign LECTURES_PER_WEEK = 2 %}
+{% assign LECTURES_PER_WEEK = 4 %}
 
 <h2>
-    Discrete Mathematics and Probability Theory
+    {{site.description}}
 </h2>
 <h4 class="text-muted">
-    CS 70 at UC Berkeley with Jingjia Chen and Tarang Srivastava, Summer 2022
+    CS70 at UC Berkeley, {{site.semester}}<br/>
+    {{site.instructors}}
 </h4>
-<p>Lecture: MTuWTh 12:30 pm - 1:59 pm<br/>
-<a href="#week0"><b>Jump to current week</b></a><br/><br/>
+<p>Lecture: MTuWTh 12:30 pm - 1:59 pm, Dwinelle 155<br/>
 
-WEBSITE UNDER CONSTRUCTION. DETAILS IN PROGRESS
-
-HW is released on Sunday and due on Saturday at 4pm. <br/>
-Please join the course Piazza by clicking the link above.
-
+<a href="#week0"><b>Jump to current week</b></a>
 
 <div class="table-responsive py-3">
 <table class="table table-bordered" >
@@ -34,7 +30,7 @@ Please join the course Piazza by clicking the link above.
         </tr>
     </thead>
     <tbody>
-        {% for week in (0..site.num_weeks) %}
+        {% for week in (1..site.num_weeks) %}
 
             {% assign row_week = "" %}
             {% assign row_date = "" %}
