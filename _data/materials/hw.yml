@@ -1,84 +1,84 @@
 - type: hw
   num: 0
   name: "00"
-  posted: true
+  posted: false
   solutions: false
   weeks: [0]
 - type: hw
   num: 1
   name: "01"
-  posted: true
+  posted: false
   solutions: false
   weeks: [1]
 - type: hw
   num: 2
   name: "02"
-  posted: true
+  posted: false
   solutions: false
   weeks: [2]
 - type: hw
   num: 3
   name: "03"
-  posted: true
+  posted: false
   solutions: false
   weeks: [3]
 - type: hw
   num: 4
   name: "04"
-  posted: true
+  posted: false
   solutions: false
   weeks: [4]
 - type: hw
   num: 5
   name: "05"
-  posted: true
+  posted: false
   solutions: false
   weeks: [5]
 - type: hw
   num: 6
   name: "06"
-  posted: true
+  posted: false
   solutions: false
   weeks: [6]
 - type: hw
   num: 7
   name: "07"
-  posted: true
+  posted: false
   solutions: false
   weeks: [7]
 - type: hw
   num: 8
   name: "08"
-  posted: true
+  posted: false
   solutions: false
   weeks: [8]
 - type: hw
   num: 10
   name: "10"
-  posted: true
+  posted: false
   solutions: false
   weeks: [10]
 - type: hw
   num: 11
   name: "11"
-  posted: true
+  posted: false
   solutions: false
   weeks: [11]
 - type: hw
   num: 12
   name: "12"
-  posted: true
+  posted: false
   solutions: false
   weeks: [12]
 - type: hw
   num: 13
   name: "13"
-  posted: true
+  posted: false
   solutions: false
   weeks: [13]
 - type: hw
   num: 14
   name: "14"
-  posted: true
+  posted: false
   solutions: false
   weeks: [14]

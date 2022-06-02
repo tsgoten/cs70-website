@@ -1,162 +1,162 @@
 - type: dis
   num: 0A
   name: "00a"
-  posted: true
+  posted: false
   solutions: false
   weeks: [0]
 - type: dis
   num: 0B
   name: "00b"
-  posted: true
+  posted: false
   solutions: false
   weeks: [0]
 - type: dis
   num: 1A
   name: "01a"
-  posted: true
+  posted: false
   solutions: false
   weeks: [1]
 - type: dis
   num: 1B
   name: "01b"
-  posted: true
+  posted: false
   solutions: false
   weeks: [1]
 - type: dis
   num: 2A
   name: "02a"
-  posted: true
+  posted: false
   solutions: false
   weeks: [2]
 - type: dis
   num: 2B
   name: "02b"
-  posted: true
+  posted: false
   solutions: false
   weeks: [2]
 - type: dis
   num: 3A
   name: "03a"
-  posted: true
+  posted: false
   solutions: false
   weeks: [3]
 - type: dis
   num: 3B
   name: "03b"
-  posted: true
+  posted: false
   solutions: false
   weeks: [3]
 - type: dis
   num: 4A
   name: "04a"
-  posted: true
+  posted: false
   solutions: false
   weeks: [4]
 - type: dis
   num: 4B
   name: "04b"
-  posted: true
+  posted: false
   solutions: false
   weeks: [4]
 - type: dis
   num: 5A
   name: "05a"
-  posted: true
+  posted: false
   solutions: false
   weeks: [5]
 - type: dis
   num: 5B
   name: "05b"
-  posted: true
+  posted: false
   solutions: false
   weeks: [5]
 - type: dis
   num: 6A
   name: "06a"
-  posted: true
+  posted: false
   solutions: false
   weeks: [6]
 - type: dis
   num: 7A
   name: "07a"
-  posted: true
+  posted: false
   solutions: false
   weeks: [7]
 - type: dis
   num: 7B
   name: "07b"
-  posted: true
+  posted: false
   solutions: false
   weeks: [7]
 - type: dis
   num: 8A
   name: "08a"
-  posted: true
+  posted: false
   solutions: false
   weeks: [8]
 - type: dis
   num: 8B
   name: "08b"
-  posted: true
+  posted: false
   solutions: false
   weeks: [8]
 - type: dis
   num: 10A
   name: "10a"
-  posted: true
+  posted: false
   solutions: false
   weeks: [10]
 - type: dis
   num: 10B
   name: "10b"
-  posted: true
+  posted: false
   solutions: false
   weeks: [10]
 - type: dis
   num: 11A
   name: "11a"
-  posted: true
+  posted: false
   solutions: false
   weeks: [11]
 - type: dis
   num: 11B
   name: "11b"
-  posted: true
+  posted: false
   solutions: false
   weeks: [11]
 - type: dis
   num: 12A
   name: "12a"
-  posted: true
+  posted: false
   solutions: false
   weeks: [12]
 - type: dis
   num: 12B
   name: "12b"
-  posted: true
+  posted: false
   solutions: false
   weeks: [12]
 - type: dis
   num: 13A
   name: "13a"
-  posted: true
+  posted: false
   solutions: false
   weeks: [13]
 - type: dis
   num: 13B
   name: "13b"
-  posted: true
+  posted: false
   solutions: false
   weeks: [13]
 - type: dis
   num: 14A
   name: "14a"
-  posted: true
+  posted: false
   solutions: false
   weeks: [14]
 - type: dis
   num: 14B
   name: "14b"
-  posted: true
+  posted: false
   solutions: false
   weeks: [14]
