@@ -1,0 +1,238 @@
+##### Example Format #####
+# - type: lec
+#   date: 6/21 
+#   day: Mon
+#   week: 1
+#   title: Introduction, Propositional Logic
+#   reading_text: [0, 1]
+#   webcast: https://bcourses.berkeley.edu/courses/1512474/pages/lec5
+#   resources:
+#     - name: full
+#       url: assets/pdf/lec-5.pdf
+#     - name: 1pp
+#       url: assets/pdf/lec-5-handout.pdf
+
+- type: lec
+  date: 6/20
+  day: Mon
+  week: 1
+  title: _Juneteenth_
+  reading_text: 
+
+- type: lec
+  date: 6/21
+  day: Tue
+  week: 1
+  title: Introduction, Propositional Logic
+  reading_text: [0, 1]
+
+- type: lec
+  date: 6/22
+  day: Wed
+  week: 1
+  title: Proofs
+  reading_text: [2]
+
+- type: lec
+  date: 6/23
+  day: Thu
+  week: 1
+  title: Induction
+  reading_text: [3]
+
+
+- type: lec
+  date: 6/27
+  day: Mon
+  week: 2
+  title: Graphs I
+  reading_text: [5]
+
+- type: lec
+  date: 6/28
+  day: Tue
+  week: 2
+  title: Graphs II
+  reading_text: [5]
+
+- type: lec
+  date: 6/29
+  day: Wed
+  week: 2
+  title: Modular Arithmetic
+  reading_text: [6]
+
+- type: lec
+  date: 6/30
+  day: Thu
+  week: 2
+  title: Euclid, FLT, CRT
+  reading_text: [6]
+
+- type: lec
+  date: 7/4 
+  day: Mon
+  week: 3 
+  title: _July 4th_
+  reading_text: 
+
+- type: lec
+  date: 7/5 
+  day: Tue
+  week: 3 
+  title: RSA 
+  reading_text: [6, 7]
+
+- type: lec
+  date: 7/6 
+  day: Wed
+  week: 3 
+  title: Polynomials, Secret Sharing
+  reading_text: [7, 8] 
+
+- type: lec
+  date: 7/7 
+  day: Thu
+  week: 3 
+  title: Error Correction 
+  reading_text: [9] 
+
+- type: lec
+  date: 7/11 
+  day: Mon
+  week: 4 
+  title: Counting I
+  reading_text: [10] 
+
+- type: lec
+  date: 7/12 
+  day: Tue
+  week: 4 
+  title: Counting II 
+  reading_text: [10]
+
+- type: lec
+  date: 7/13 
+  day: Wed
+  week: 4 
+  title: Countability/Computability 
+  reading_text: [11, 12] 
+
+- type: lec
+  date: 7/15
+  day: Fri
+  week: 4 
+  title: _Midterm Exam (Time TBA)_
+  reading_text: 
+
+- type: lec
+  date: 7/18 
+  day: Mon
+  week: 5 
+  title: Discrete Probability 
+  reading_text: [13]
+
+- type: lec
+  date: 7/19 
+  day: Tue
+  week: 5 
+  title: Conditional Probability 
+  reading_text: [14] 
+
+- type: lec
+  date: 7/20 
+  day: Wed
+  week: 5 
+  title: Combination of Events, Bayes' Rule 
+  reading_text: [14] 
+
+- type: lec
+  date: 7/21 
+  day: Thu
+  week: 5 
+  title: Random Variables, Expectation
+  reading_text: [15, 19] 
+
+- type: lec
+  date: 7/25
+  day: Mon
+  week: 6 
+  title: Random Variables, Distributions 
+  reading_text: 
+
+- type: lec
+  date: 7/26 
+  day: Tue
+  week: 6 
+  title: Variance, Covariance 
+  reading_text: [16]
+
+- type: lec
+  date: 7/27 
+  day: Wed
+  week: 6 
+  title: Concentration Inequalities
+  reading_text: [17] 
+
+- type: lec
+  date: 7/28
+  day: Thu
+  week: 6 
+  title: Markov Chains I 
+  reading_text: [22] 
+
+- type: lec
+  date: 8/1 
+  day: Mon
+  week: 7 
+  title: Markov Chains II 
+  reading_text: [22] 
+
+- type: lec
+  date: 8/2 
+  day: Tue
+  week: 7 
+  title: Continuous Probability I 
+  reading_text: [21] 
+
+- type: lec
+  date: 8/3 
+  day: Wed
+  week: 7 
+  title: Continuous Probability II 
+  reading_text: [21] 
+
+- type: lec
+  date: 8/4 
+  day: Thu
+  week: 7 
+  title: Linear Regression, LLSE 
+  reading_text: [20] 
+
+- type: lec
+  date: 8/8 
+  day: Mon
+  week: 8 
+  title: Conditional Expectation, MMSE 
+  reading_text: [20] 
+
+- type: lec
+  date: 8/9 
+  day: Tue
+  week: 8 
+  title: _RRR Day_
+  reading_text: 
+
+- type: lec
+  date: 8/10
+  day: Wed
+  week: 8
+  title: _RRR Day_
+  reading_text: 
+
+- type: lec
+  date: 8/12
+  day: Fri
+  week: 8 
+  title: _Final Exam (Time TBA)_ 
+  reading_text: 
