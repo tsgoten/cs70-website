@@ -132,7 +132,8 @@ layout: page
                 }
                 if (
                     event.title.includes("Prof.") ||
-                    event.title.includes("Professor ")
+                    event.title.includes("Professor") ||
+                    event.title.includes("Instructor")
                 ) {
                     element.addClass("prof-oh-event");
                 }
@@ -150,6 +151,10 @@ layout: page
                     event.title.includes("Midterm")
                 ) {
                     element.addClass("exam-event");
+                }
+                if (
+                    event.title.includes("Meeting")
+                ) {
                 }
                 if (!inList) {
                     element.popover({
