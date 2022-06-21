@@ -16,12 +16,7 @@
   posted: false
   solutions: false
   weeks: [1]
-- type: dis
-  num: 1D
-  name: "01d"
-  posted: false
-  solutions: false
-  weeks: [1]
+
 - type: dis
   num: 2A
   name: "02a"
