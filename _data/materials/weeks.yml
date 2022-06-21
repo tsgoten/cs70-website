@@ -27,7 +27,7 @@
   reading_text: [0, 1]
   resources:
     - name: blank
-    url: assets/pdf/Lecture 1A Blank.pdf
+      url: assets/pdf/Lecture 1A Blank.pdf
 
 - type: lec
   date: 6/22
