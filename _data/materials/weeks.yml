@@ -28,6 +28,8 @@
   resources:
     - name: blank
       url: assets/pdf/Lecture 1A Blank.pdf
+    - name: post
+      url: assets/pdf/Lecture 1A.pdf
 
 - type: lec
   date: 6/22
