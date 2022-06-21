@@ -127,7 +127,7 @@ We are grading according to [department guidelines](https://eecs.berkeley.edu/re
 * Midterm: 30%
 * Final: 40%
 
-Since there will only be one midterm, we have a partial clobber policy for both options so that if you do well on either the midterm or the final, your other score can be partially clobbered if you happen to do poorly. More details will be released in the coming weeks.
+Since there will only be one midterm, we have a partial clobber policy on the midterm or the final, your other score can be partially clobbered if you happen to do poorly. More details will be released in the coming weeks.
 
 
 ## Disability Accommodations
