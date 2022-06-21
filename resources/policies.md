@@ -150,8 +150,8 @@ You are welcome to work on homework problems in study groups of two to five peop
 
 We believe that most students can distinguish between helping other students and cheating. You may discuss approaches but your solution must be written by you and you only. You should acknowledge everyone whom you have worked with or who has given you any significant ideas about the homework.
 
-
-    _Warning: Your attention is drawn to the [Department’s Policy on Academic Dishonesty](https://eecs.berkeley.edu/resources/students/academic-dishonesty). In particular, you should be aware that copying or sharing solutions, in whole or in part, from other students in the class (or any other source without acknowledgment) constitutes cheating. Any student found to be cheating risks automatically failing the class and being referred to the Office of Student Conduct._
+### Department Academic Misconduct Policy
+Your attention is drawn to the [Department’s Policy on Academic Dishonesty](https://eecs.berkeley.edu/resources/students/academic-dishonesty). In particular, you should be aware that copying or sharing solutions, in whole or in part, from other students in the class (or any other source without acknowledgment) constitutes cheating. Any student found to be cheating risks automatically failing the class and being referred to the Office of Student Conduct._
 
 
 ## Closing Thoughts
