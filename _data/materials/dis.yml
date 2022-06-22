@@ -2,12 +2,12 @@
   num: 1A
   name: "01a"
   posted: true
-  solutions: false
+  solutions: true
   weeks: [1]
 - type: dis
   num: 1B
   name: "01b"
-  posted: false
+  posted: true
   solutions: false
   weeks: [1]
 - type: dis
