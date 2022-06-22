@@ -38,6 +38,9 @@
   week: 1
   title: Proofs
   reading_text: [2]
+  resources:
+    - name: blank
+      url: assets/pdf/Lecture 1B Blank.pdf
 
 - type: lec
   date: 6/23
