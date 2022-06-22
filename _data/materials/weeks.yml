@@ -29,7 +29,7 @@
   resources:
     - name: blank
       url: assets/pdf/Lecture 1A Blank.pdf
-    - name: post
+    - name: slides
       url: assets/pdf/Lecture 1A.pdf
 
 - type: lec
