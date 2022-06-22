@@ -25,6 +25,7 @@
   week: 1
   title: Introduction, Propositional Logic
   reading_text: [0, 1]
+  webcast: https://bcourses.berkeley.edu/courses/1516184/pages/lec1a
   resources:
     - name: blank
       url: assets/pdf/Lecture 1A Blank.pdf
