@@ -41,6 +41,8 @@
   resources:
     - name: blank
       url: assets/pdf/Lecture 1B Blank.pdf
+    - name: slides
+      url: assets/pdf/Lecture 1B.pdf
 
 - type: lec
   date: 6/23
