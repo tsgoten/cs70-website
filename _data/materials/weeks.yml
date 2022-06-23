@@ -54,7 +54,8 @@
   resources:
     - name: blank
       url: assets/pdf/Lecture 1C Blank.pdf
-
+    - name: slides
+      url: assets/pdf/Lecture 1C.pdf
 
 - type: lec
   date: 6/27
