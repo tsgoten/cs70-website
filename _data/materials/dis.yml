@@ -8,12 +8,12 @@
   num: 1B
   name: "01b"
   posted: true
-  solutions: false
+  solutions: true
   weeks: [1]
 - type: dis
   num: 1C
   name: "01c"
-  posted: false
+  posted: true
   solutions: false
   weeks: [1]
 
