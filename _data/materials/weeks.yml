@@ -51,6 +51,9 @@
   week: 1
   title: Induction
   reading_text: [3]
+  resources:
+    - name: blank
+      url: assets/pdf/Lecture 1C Blank.pdf
 
 
 - type: lec
