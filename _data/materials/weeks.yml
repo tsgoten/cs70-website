@@ -52,6 +52,7 @@
   title: Induction
   reading_text: [3]
   resources:
+  webcast: https://bcourses.berkeley.edu/courses/1516184/pages/lec1c
     - name: blank
       url: assets/pdf/Lecture 1C Blank.pdf
     - name: slides
