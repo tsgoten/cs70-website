@@ -14,7 +14,7 @@
   num: 1C
   name: "01c"
   posted: true
-  solutions: false
+  solutions: true
   weeks: [1]
 
 - type: dis
