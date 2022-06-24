@@ -102,9 +102,6 @@ layout: page
 
             eventRender: function (info) {
                 var event = info.event;
-                if event.title.includes("Meeting") {
-                    return;
-                }
                 var element = $(info.el);
                 var inList = element.is("tr");
                 if (event.allDay) {
