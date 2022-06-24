@@ -102,6 +102,9 @@ layout: page
 
             eventRender: function (info) {
                 var event = info.event;
+                if event.title.includes("Meeting") {
+                    return;
+                }
                 var element = $(info.el);
                 var inList = element.is("tr");
                 if (event.allDay) {
@@ -173,11 +176,11 @@ layout: page
 {{ content }}
 
 <!-- <br/> -->
-<!-- <blockquote>
+<blockquote>
 		Use
 		<a
-				href="https://calendar.google.com/calendar/u/0?cid=Y184NjZsbW82cHJkY202bzZpZ3UxdGpjZGdua0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t"
+				href="https://calendar.google.com/calendar/embed?src=c_866lmo6prdcm6o6igu1tjcdgnk%40group.calendar.google.com&ctz=America%2FLos_Angeles"
 				>this</a
 		>
 		link to copy the CS 70 Summer 2022 calendar to your own personal calendar!
-</blockquote> -->
+</blockquote>
