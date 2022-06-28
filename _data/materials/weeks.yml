@@ -67,6 +67,8 @@
   resources:
   - name: blank
     url: assets/pdf/Lecture 2A Blank.pdf
+  - name: slides
+    url: assets/pdf/Lecture 2A.pdf
 
 - type: lec
   date: 6/28
