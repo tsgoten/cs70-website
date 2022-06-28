@@ -76,6 +76,9 @@
   week: 2
   title: Graphs II
   reading_text: [5]
+  resources:
+  - name: blank
+    url: assets/pdf/Lecture 2B Blank.pdf
 
 - type: lec
   date: 6/29
