@@ -80,6 +80,8 @@
   resources:
   - name: blank
     url: assets/pdf/Lecture 2B Blank.pdf
+  - name: slides
+  url: assets/pdf/Lecture 2B.pdf
 
 - type: lec
   date: 6/29
