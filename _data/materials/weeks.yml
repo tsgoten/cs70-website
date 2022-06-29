@@ -90,6 +90,9 @@
   week: 2
   title: Modular Arithmetic I
   reading_text: [6]
+  resources:
+  - name: blank
+    url: assets/pdf/Lecture 2C Blank.pdf
 
 - type: lec
   date: 6/30
