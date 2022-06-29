@@ -87,15 +87,15 @@
   date: 6/29
   day: Wed
   week: 2
-  title: Modular Arithmetic
+  title: Modular Arithmetic I
   reading_text: [6]
 
 - type: lec
   date: 6/30
   day: Thu
   week: 2
-  title: Euclid, FLT, CRT
-  reading_text: [6]
+  title: Modular Arithmetic II
+  reading_text: [6, 7]
 
 - type: lec
   date: 7/4 
