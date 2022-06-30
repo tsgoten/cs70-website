@@ -33,12 +33,12 @@
   num: 2C
   name: "02c"
   posted: true
-  solutions: false
+  solutions: true
   weeks: [2]
 - type: dis
   num: 2D
   name: "02d"
-  posted: false
+  posted: true
   solutions: false
   weeks: [2]
 - type: dis
