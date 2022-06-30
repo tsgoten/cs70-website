@@ -103,6 +103,9 @@
   week: 2
   title: Modular Arithmetic II
   reading_text: [6, 7]
+  resources:
+  - name: blank
+    url: assets/pdf/Lecture 2D Blank.pdf
 
 - type: lec
   date: 7/4 
