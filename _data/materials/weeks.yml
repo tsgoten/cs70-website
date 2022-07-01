@@ -64,6 +64,12 @@
   week: 2
   title: Graphs I
   reading_text: [5]
+  webcast: https://bcourses.berkeley.edu/courses/1516184/pages/lec2a
+  resources:
+  - name: blank
+    url: assets/pdf/Lecture 2A Blank.pdf
+  - name: slides
+    url: assets/pdf/Lecture 2A.pdf
 
 - type: lec
   date: 6/28
@@ -71,20 +77,36 @@
   week: 2
   title: Graphs II
   reading_text: [5]
+  webcast: https://bcourses.berkeley.edu/courses/1516184/pages/lec2b
+  resources:
+  - name: blank
+    url: assets/pdf/Lecture 2B Blank.pdf
+  - name: slides
+    url: assets/pdf/Lecture 2B.pdf
 
 - type: lec
   date: 6/29
   day: Wed
   week: 2
-  title: Modular Arithmetic
+  title: Modular Arithmetic I
+  webcast: https://bcourses.berkeley.edu/courses/1516184/pages/lec2c
   reading_text: [6]
+  resources:
+  - name: blank
+    url: assets/pdf/Lecture 2C Blank.pdf
+  - name: slides
+    url: assets/pdf/Lecture 2C.pdf
 
 - type: lec
   date: 6/30
   day: Thu
   week: 2
-  title: Euclid, FLT, CRT
-  reading_text: [6]
+  title: Modular Arithmetic II
+  reading_text: [6, 7]
+  webcast: https://bcourses.berkeley.edu/courses/1516184/pages/lec2d
+  resources:
+  - name: blank
+    url: assets/pdf/Lecture 2D Blank.pdf
 
 - type: lec
   date: 7/4 
