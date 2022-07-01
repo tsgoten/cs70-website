@@ -103,6 +103,7 @@
   week: 2
   title: Modular Arithmetic II
   reading_text: [6, 7]
+  webcast: https://bcourses.berkeley.edu/courses/1516184/pages/lec2d
   resources:
   - name: blank
     url: assets/pdf/Lecture 2D Blank.pdf
