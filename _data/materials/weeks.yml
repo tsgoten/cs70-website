@@ -107,6 +107,8 @@
   resources:
   - name: blank
     url: assets/pdf/Lecture 2D Blank.pdf
+  - name: slides
+    url: assets/pdf/Lecture 2D.pdf
 
 - type: lec
   date: 7/4 
@@ -121,6 +123,10 @@
   week: 3 
   title: RSA 
   reading_text: [6, 7]
+  resources:
+  - name: blank
+    url: assets/pdf/Lecture 3A Blank.pdf
+
 
 - type: lec
   date: 7/6 
