@@ -44,7 +44,7 @@
 - type: dis
   num: 3A
   name: "03a"
-  posted: false
+  posted: true
   solutions: false
   weeks: [3]
 - type: dis
