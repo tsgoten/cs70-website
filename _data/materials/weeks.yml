@@ -123,6 +123,7 @@
   week: 3 
   title: RSA 
   reading_text: [6, 7]
+  webcast: https://bcourses.berkeley.edu/courses/1516184/pages/lec3a
   resources:
   - name: blank
     url: assets/pdf/Lecture 3A Blank.pdf
