@@ -51,7 +51,7 @@
   num: 3B
   name: "03b"
   posted: true
-  solutions: true
+  solutions: false
   weeks: [3]
 - type: dis
   num: 3C
