@@ -149,6 +149,9 @@
   week: 3 
   title: Error Correction 
   reading_text: [9] 
+  resources:
+  - name: blank
+    url: assets/pdf/Lecture 3C Blank.pdf
 
 - type: lec
   date: 7/11 
