@@ -60,12 +60,6 @@
   solutions: false
   weeks: [3]
 - type: dis
-  num: 3D
-  name: "03d"
-  posted: false
-  solutions: false
-  weeks: [3]
-- type: dis
   num: 4A
   name: "04a"
   posted: false
