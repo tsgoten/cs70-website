@@ -152,6 +152,8 @@
   resources:
   - name: blank
     url: assets/pdf/Lecture 3C Blank.pdf
+  - name: slides
+    url: assets/pdf/Lecture 3C.pdf
 
 - type: lec
   date: 7/11 
