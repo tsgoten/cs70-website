@@ -62,7 +62,7 @@
 - type: dis
   num: 4A
   name: "04a"
-  posted: false
+  posted: true
   solutions: false
   weeks: [4]
 - type: dis
