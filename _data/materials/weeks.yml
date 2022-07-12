@@ -149,6 +149,7 @@
   week: 3 
   title: Error Correction 
   reading_text: [9] 
+  webcast: https://bcourses.berkeley.edu/courses/1516184/pages/lec3c
   resources:
   - name: blank
     url: assets/pdf/Lecture 3C Blank.pdf
@@ -161,6 +162,7 @@
   week: 4 
   title: Counting 
   reading_text: [10]
+  webcast: https://bcourses.berkeley.edu/courses/1516184/pages/lec4a
   resources:
   - name: blank
     url: assets/pdf/Lecture 4A Blank.pdf
