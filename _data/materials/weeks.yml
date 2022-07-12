@@ -161,6 +161,7 @@
   week: 4 
   title: Counting 
   reading_text: [10]
+  resources:
   - name: blank
     url: assets/pdf/Lecture 4A Blank.pdf
   - name: slides
@@ -172,6 +173,7 @@
   week: 4 
   title: Countability
   reading_text: [11]
+  resources:
   - name: blank
     url: assets/pdf/Lecture 4B Blank.pdf
 
@@ -181,6 +183,7 @@
   week: 4 
   title: Computability 
   reading_text: [12]
+  resources:
   - name: blank
     url: assets/pdf/Lecture 4C Blank.pdf
 
