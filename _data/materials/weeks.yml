@@ -159,22 +159,30 @@
   date: 7/11 
   day: Mon
   week: 4 
-  title: Counting I
-  reading_text: [10] 
+  title: Counting 
+  reading_text: [10]
+  - name: blank
+    url: assets/pdf/Lecture 4A Blank.pdf
+  - name: slides
+    url: assets/pdf/Lecture 4A.pdf
 
 - type: lec
   date: 7/12 
   day: Tue
   week: 4 
-  title: Counting II 
-  reading_text: [10]
+  title: Countability
+  reading_text: [11]
+  - name: blank
+    url: assets/pdf/Lecture 4B Blank.pdf
 
 - type: lec
   date: 7/13 
   day: Wed
   week: 4 
-  title: Countability/Computability 
-  reading_text: [11, 12] 
+  title: Computability 
+  reading_text: [12]
+  - name: blank
+    url: assets/pdf/Lecture 4C Blank.pdf
 
 - type: lec
   date: 7/15
