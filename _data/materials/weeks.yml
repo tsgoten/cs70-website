@@ -178,6 +178,8 @@
   resources:
   - name: blank
     url: assets/pdf/Lecture 4B Blank.pdf
+  - name: slides
+    url: assets/pdf/Lecture 4B.pdf
 
 - type: lec
   date: 7/13 
