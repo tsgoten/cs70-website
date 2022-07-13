@@ -130,18 +130,18 @@
   - name: slides
     url: assets/pdf/Lecture 3A.pdf
 
-- type: lec
-  date: 7/6 
-  day: Wed
-  week: 3 
-  title: Polynomials, Secret Sharing
-  reading_text: [7, 8] 
-  webcast: https://bcourses.berkeley.edu/courses/1516184/pages/lec3b
-  resources:
-  - name: blank
-    url: assets/pdf/Lecture 3B Blank.pdf
-  - name: slides
-    url: assets/pdf/Lecture 3B.pdf
+# - type: lec
+#   date: 7/6 
+#   day: Wed
+#   week: 3 
+#   title: Polynomials, Secret Sharing
+#   reading_text: [7, 8] 
+#   webcast: https://bcourses.berkeley.edu/courses/1516184/pages/lec3b
+#   resources:
+#   - name: blank
+#     url: assets/pdf/Lecture 3B Blank.pdf
+#   - name: slides
+#     url: assets/pdf/Lecture 3B.pdf
 
 - type: lec
   date: 7/7 
@@ -149,7 +149,20 @@
   week: 3 
   title: Error Correction 
   reading_text: [9] 
-  mirror: https://bcourses.berkeley.edu/courses/1516184/pages/lec3c
+  webcast: https://bcourses.berkeley.edu/courses/1516184/pages/lec3c
+  resources:
+  - name: blank
+    url: assets/pdf/Lecture 3C Blank.pdf
+  - name: slides
+    url: assets/pdf/Lecture 3C.pdf
+
+- type: lec
+  date: 7/7 
+  day: Thu
+  week: 3 
+  title: Error Correction 
+  reading_text: [9] 
+  webcast: https://bcourses.berkeley.edu/courses/1516184/pages/lec3c
   resources:
   - name: blank
     url: assets/pdf/Lecture 3C Blank.pdf
@@ -162,7 +175,7 @@
   week: 4 
   title: Counting 
   reading_text: [10]
-  mirror: https://bcourses.berkeley.edu/courses/1516184/pages/lec4a
+  webcast: https://bcourses.berkeley.edu/courses/1516184/pages/lec4a
   resources:
   - name: blank
     url: assets/pdf/Lecture 4A Blank.pdf
