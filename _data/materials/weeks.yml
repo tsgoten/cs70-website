@@ -197,6 +197,9 @@
   week: 4 
   title: _Midterm Exam (6-8p)_
   reading_text: 
+  resources:
+  - name: logistics
+    url: https://piazza.com/class/l3oobgzdjn57j8?cid=259
 
 - type: lec
   date: 7/18 
