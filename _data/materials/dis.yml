@@ -69,12 +69,12 @@
   num: 4B
   name: "04b"
   posted: true
-  solutions: false
+  solutions: true
   weeks: [4]
 - type: dis
   num: 4C
   name: "04c"
-  posted: false
+  posted: true
   solutions: false
   weeks: [4]
 - type: dis
